@@ -1,0 +1,222 @@
+{
+  "SurveyEntry": {
+    "SurveyID": "SV_3PIKoTtXeRChoIC",
+    "SurveyName": "evaluating AI chatbot",
+    "SurveyDescription": null,
+    "SurveyOwnerID": "UR_6zzX4z5m1XW9TT0",
+    "SurveyBrandID": "usc",
+    "DivisionID": "DV_cUtIjA9ngEuiMxT",
+    "SurveyLanguage": "EN",
+    "SurveyActiveResponseSet": "RS_7NE6dbL2J2UTfdY",
+    "SurveyStatus": "Inactive",
+    "SurveyStartDate": "0000-00-00 00:00:00",
+    "SurveyExpirationDate": "0000-00-00 00:00:00",
+    "SurveyCreationDate": "2024-08-01 21:31:02",
+    "CreatorID": "UR_6zzX4z5m1XW9TT0",
+    "LastModified": "2024-08-01 23:41:23",
+    "LastAccessed": "0000-00-00 00:00:00",
+    "LastActivated": "0000-00-00 00:00:00",
+    "Deleted": null
+  },
+  "SurveyElements": [
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "BL",
+      "PrimaryAttribute": "Survey Blocks",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "1": {
+          "Type": "Trash",
+          "Description": "Trash / Unused Questions",
+          "ID": "BL_000000000000001",
+          "BlockElements": []
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "FL",
+      "PrimaryAttribute": "Survey Flow",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Root",
+        "FlowID": "FL_1",
+        "Flow": [
+          {
+            "Type": "EmbeddedData",
+            "FlowID": "FL_2",
+            "EmbeddedData": [
+              {
+                "Description": "head",
+                "Type": "Custom",
+                "Field": "head",
+                "VariableType": "String",
+                "DataVisibility": [],
+                "AnalyzeText": false,
+                "Value": "<p style=\"font-size:14px; \"><b>Question [pageid]: [init_question] </b></p>"
+              }
+            ]
+          }
+        ],
+        "Properties": {
+          "Count": 1
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "PL",
+      "PrimaryAttribute": "Preview Link",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "PreviewType": "Brand",
+        "PreviewID": "93cd5004-4dda-44b7-a318-aa60befd3dc0"
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "RS",
+      "PrimaryAttribute": "RS_7NE6dbL2J2UTfdY",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": null
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "SO",
+      "PrimaryAttribute": "Survey Options",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "BackButton": "true",
+        "SaveAndContinue": "true",
+        "SurveyProtection": "PublicSurvey",
+        "BallotBoxStuffingPrevention": "false",
+        "NoIndex": "Yes",
+        "SecureResponseFiles": "true",
+        "SurveyExpiration": "None",
+        "SurveyTermination": "DefaultMessage",
+        "Header": "${e://Field/head}",
+        "Footer": "",
+        "ProgressBarDisplay": "VerboseText",
+        "PartialData": "+1 week",
+        "ValidationMessage": null,
+        "PreviousButton": " \u2190 ",
+        "NextButton": " \u2192 ",
+        "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+        "SkinLibrary": "usc",
+        "SkinType": "templated",
+        "Skin": {
+          "brandingId": null,
+          "templateId": "*base",
+          "overrides": {
+            "questionText": {
+              "size": "14px"
+            },
+            "answerText": {
+              "size": "14px"
+            }
+          }
+        },
+        "NewScoring": 1,
+        "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+        "CustomStyles": {
+          "customCSS": ".Skin .SkinInner {\n    /* This should fix the layout of the middle panel */\n    width: 75%;\n    margin-left: 25%;\n\n    /* Some padding looks nice */\n    padding-left: 20px;\n    padding-right: 20px;\n    font-size: 14px;\n\n}\n\n/* Some padding on the header is nicer */\n.Skin #HeaderContainer {\n    padding-left: 20px;\n    padding-right: 20px;\n    padding-top: 80px;\n    font-size: 14px;\n}\n\n#HeaderContainer {\n    position: fixed;\n    left: 0;\n    top: 0;\n    background-color: white;\n    width: 25%; \n    height: 250px; \n    z-index: 1000;\n}\n\n.Skin .QuestionText {\n    padding-top:0px;\n    padding-bottom: 0px;\n}\n\n.Skin .QuestionOuter { padding-bottom: 0px; }\n@media (min-width:480px) {\n    .Skin .QuestionOuter .QuestionBody {padding-bottom:0px !important;}\n}\n\n.highlight {\n    background-color: #f0f8ff; /* Background color */\n    padding: 1px;             /* Padding to ensure content doesn't touch the borders */\n    margin-bottom: 1px;        /* Bottom margin for spacing */\n    box-sizing: border-box;    /* Include padding and border in the element's total width and height */\n    height: auto;              /* Ensure height is set to auto */\n    overflow: auto;\n}\n\n\n.overall {\n    background-color: #ffffe0; /* light yellow */\n}\n"
+        },
+        "EOSMessage": null,
+        "ShowExportTags": "false",
+        "CollectGeoLocation": "false",
+        "PasswordProtection": "No",
+        "AnonymizeResponse": "No",
+        "RefererCheck": "No",
+        "BallotBoxStuffingPreventionBehavior": null,
+        "BallotBoxStuffingPreventionMessage": null,
+        "BallotBoxStuffingPreventionMessageLibrary": null,
+        "BallotBoxStuffingPreventionURL": null,
+        "RecaptchaV3": "false",
+        "ConfirmStart": false,
+        "AutoConfirmStart": false,
+        "RelevantID": "false",
+        "RelevantIDLockoutPeriod": "+30 days",
+        "UseCustomSurveyLinkCompletedMessage": null,
+        "SurveyLinkCompletedMessage": null,
+        "SurveyLinkCompletedMessageLibrary": null,
+        "ResponseSummary": "No",
+        "EOSMessageLibrary": null,
+        "EOSRedirectURL": null,
+        "EmailThankYou": "false",
+        "ThankYouEmailMessageLibrary": null,
+        "ThankYouEmailMessage": null,
+        "ValidateMessage": "false",
+        "ValidationMessageLibrary": null,
+        "InactiveSurvey": "DefaultMessage",
+        "PartialDeletion": null,
+        "PartialDataCloseAfter": "LastActivity",
+        "InactiveMessageLibrary": null,
+        "InactiveMessage": null,
+        "AvailableLanguages": {
+          "EN": []
+        },
+        "headerMid": "",
+        "ProtectSelectionIds": true,
+        "SurveyName": "layout template multipage",
+        "QuestionsPerPage": ""
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "SCO",
+      "PrimaryAttribute": "Scoring",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "ScoringCategories": [
+          {
+            "ID": "SC_cSA5rQ5vwEghWzc",
+            "Name": "Score",
+            "Description": ""
+          }
+        ],
+        "ScoringCategoryGroups": [],
+        "DefaultScoringCategory": "SC_cSA5rQ5vwEghWzc",
+        "ScoringSummaryCategory": null,
+        "ScoringSummaryAfterQuestions": 0,
+        "ScoringSummaryAfterSurvey": 0,
+        "AutoScoringCategory": null
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "PROJ",
+      "PrimaryAttribute": "CORE",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": "1.1.0",
+      "Payload": {
+        "ProjectCategory": "CORE",
+        "SchemaVersion": "1.1.0"
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "STAT",
+      "PrimaryAttribute": "Survey Statistics",
+      "SecondaryAttribute": null,
+      "TertiaryAttribute": null,
+      "Payload": {
+        "MobileCompatible": false,
+        "ID": "Survey Statistics"
+      }
+    },
+    {
+      "SurveyID": "SV_3PIKoTtXeRChoIC",
+      "Element": "QC",
+      "PrimaryAttribute": "Survey Question Count",
+      "SecondaryAttribute": "100",
+      "TertiaryAttribute": null,
+      "Payload": null
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "Type": "Standard",
+    "ID": "[block_id]",
+    "FlowID": "FL_[fl_number]",
+    "Autofill": []
+}

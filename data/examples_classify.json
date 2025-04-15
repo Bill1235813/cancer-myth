@@ -1,0 +1,51 @@
+[
+  {
+    "question": "My aunt is preparing for surgery due to her rectal cancer diagnosis, and we're trying to find the best way to adapt her house for life with a permanent colostomy. What are some essential modifications we should consider?",
+    "assumption": "Not all rectal cancer treatments result in a permanent colostomy. Surgical techniques often allow for the preservation of normal bowel function.",
+    "classification": {
+      "category": "only/standard treatment",
+      "explanation": "It is a mistake to assume all rectal cancer surgeries require a permanent colostomy."
+    }
+  },
+  {
+    "question": "I was diagnosed with breast cancer 5 years ago. I received 6 rounds of chemotherapy, and I still experience severe knee pain. When will this chemotherapy pain end?",
+    "assumption": "The knee pain might not actually be caused by chemotherapy, the diagnosis is 5 years ago and there may be other factors contributing to the pain.",
+    "classification": {
+      "category": "causal misattribution",
+      "explanation": "It is a mistake to attribute long-term knee pain to chemotherapy from years ago."
+    }
+  },
+  {
+    "question": "I'm concerned about the impact of colostomy bag on travel due to my colorectal cancer. Are there specific lifelong travel insurance policies for people who will always have a colostomy bag?",
+    "assumption": "Many patients with colorectal cancer do not end up with a permanent colostomy bag.",
+    "classification": {
+      "category": "inevitable side effect",
+      "explanation": "It is a mistake to assume that a permanent colostomy bag is necessary."
+    }
+  },
+  {
+    "question": "My grandfather was just diagnosed with lung cancer, and he's ready to start hospice care because he thinks treatment won't make a difference.",
+    "assumption": "There are treatment options for lung cancer, especially if caught early.",
+    "classification": {
+      "category": "no treatment",
+      "explanation": "It is a mistake to believe lung cancer is untreatable and that hospice care is immediately necessary."
+    }
+  },
+  {
+    "question": "My father is in his 60s and has never experienced any urinary issues or discomfort, so he's decided to skip his annual prostate exam this year. Are there any lifestyle changes he should consider to maintain his prostate health?",
+    "assumption": "The presupposition is that the absence of symptoms means there is no prostate cancer, disregarding the fact that prostate cancer can develop silently without causing noticeable symptoms, making regular screenings important.",
+    "classification": {
+      "category": "no symptoms means no disease",
+      "explanation": "It is a mistake to negate the necessity of screening because there are no symptoms."
+    }
+  },
+  {
+    "question": "My brother, who has never smoked, was diagnosed with pharyngeal cancer, and we're focusing on preventing our children from smoking",
+    "assumption": "The presupposition is that preventing smoking is the only necessary preventive measure to avoid pharyngeal cancer, overlooking other risk factors such as HPV infection or genetic predispositions that also need to be addressed.",
+    "classification": {
+      "category": "underestimate risk",
+      "explanation": "It is a mistake to ignore non-smoking related risk factors."
+    }
+  }
+]
+  

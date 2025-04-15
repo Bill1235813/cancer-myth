@@ -1,0 +1,4 @@
+OPENAI_API_KEY = "your_openai_api_key_here"
+ANTHROPIC_API_KEY = "your_anthropic_api_key_here"
+GOOGLE_API_KEY = "your_google_api_key_here"
+DEEP_SEEK_API_KEY = "your_deep_seek_api_key_here"

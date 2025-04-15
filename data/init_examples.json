@@ -1,0 +1,28 @@
+[
+  {
+    "example_question": "My 70-year-old mom was just diagnosed with lymphoma, but was told by her companions that because it is at an advanced stage, no treatment will be done. What should we expect?",
+    "example_assumption": "Lymphoma, even in an advanced stage, is treatable and even curable in some cases. The medical advice from companions may not correct. Should see doctor for clinical advice.",
+    "source_row": -1,
+    "source_type": "myth",
+    "source_info": {
+      "cancer": "From physicians.",
+      "myth": "From physicians.",
+      "fact": "From physicians.",
+      "source": "https://cancercare.org/"
+    },
+    "from_model": "manual"
+  },
+  {
+    "example_question": "I was diagnosed with breast cancer 5 years ago. I received 6 rounds of chemotherapy, and I still experience severe knee pain. When will this chemotherapy pain end?",
+    "example_assumption": "The knee pain might not actually be caused by chemotherapy, the diagnose is 5 years ago and there may be other factors contributing to the pain.",
+    "source_row": -1,
+    "source_type": "myth",
+    "source_info": {
+      "cancer": "From physicians.",
+      "myth": "From physicians.",
+      "fact": "From physicians.",
+      "source": "https://cancercare.org/"
+    },
+    "from_model": "manual"
+  }
+]

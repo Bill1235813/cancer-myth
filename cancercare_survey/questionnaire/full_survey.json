@@ -1,0 +1,152 @@
+{
+  "1": [
+    "Gemini-1.5 Pro",
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "GPT-4-Turbo"
+  ],
+  "2": [
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro",
+    "Edited human answer",
+    "LLaMa-3.1-Instruct 405B"
+  ],
+  "3": [
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro"
+  ],
+  "4": [
+    "Edited human answer",
+    "GPT-4-Turbo",
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro"
+  ],
+  "5": [
+    "GPT-4-Turbo",
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "Gemini-1.5 Pro"
+  ],
+  "6": [
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo"
+  ],
+  "7": [
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro"
+  ],
+  "8": [
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro",
+    "Edited human answer",
+    "GPT-4-Turbo"
+  ],
+  "9": [
+    "GPT-4-Turbo",
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro",
+    "Edited human answer"
+  ],
+  "10": [
+    "Gemini-1.5 Pro",
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "GPT-4-Turbo"
+  ],
+  "11": [
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro",
+    "Edited human answer",
+    "LLaMa-3.1-Instruct 405B"
+  ],
+  "12": [
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro"
+  ],
+  "13": [
+    "Edited human answer",
+    "Gemini-1.5 Pro",
+    "LLaMa-3.1-Instruct 405B",
+    "GPT-4-Turbo"
+  ],
+  "14": [
+    "Edited human answer",
+    "LLaMa-3.1-Instruct 405B",
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro"
+  ],
+  "15": [
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo",
+    "Edited human answer",
+    "LLaMa-3.1-Instruct 405B"
+  ],
+  "16": [
+    "Edited human answer",
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo"
+  ],
+  "17": [
+    "Edited human answer",
+    "GPT-4-Turbo",
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro"
+  ],
+  "18": [
+    "Edited human answer",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo",
+    "LLaMa-3.1-Instruct 405B"
+  ],
+  "19": [
+    "Gemini-1.5 Pro",
+    "LLaMa-3.1-Instruct 405B",
+    "GPT-4-Turbo",
+    "Edited human answer"
+  ],
+  "20": [
+    "LLaMa-3.1-Instruct 405B",
+    "Edited human answer",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo"
+  ],
+  "21": [
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo",
+    "Edited human answer"
+  ],
+  "22": [
+    "Edited human answer",
+    "LLaMa-3.1-Instruct 405B",
+    "GPT-4-Turbo",
+    "Gemini-1.5 Pro"
+  ],
+  "23": [
+    "LLaMa-3.1-Instruct 405B",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo",
+    "Edited human answer"
+  ],
+  "24": [
+    "GPT-4-Turbo",
+    "Edited human answer",
+    "Gemini-1.5 Pro",
+    "LLaMa-3.1-Instruct 405B"
+  ],
+  "25": [
+    "Edited human answer",
+    "Gemini-1.5 Pro",
+    "GPT-4-Turbo",
+    "LLaMa-3.1-Instruct 405B"
+  ]
+}

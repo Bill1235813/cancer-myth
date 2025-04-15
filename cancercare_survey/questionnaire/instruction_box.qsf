@@ -1,0 +1,33 @@
+{
+  "SurveyID": "SV_3PIKoTtXeRChoIC",
+  "Element": "SQ",
+  "PrimaryAttribute": "QID[qid_count]",
+  "SecondaryAttribute": "Imagine a company ...",
+  "TertiaryAttribute": null,
+  "Payload": {
+    "QuestionText": "Imagine a company has developed an app that provides health-related advice to patients. The source of the advice is not disclosed. Your task is to assess whether the advice given in each scenario is reliable, helpful, and sound. When evaluating the answers in this survey, please apply <b>all of your professional knowledge and experience.</b><br><br>You will be evaluating 25 questions in total. Each question has 4 different answers, each split into paragraphs containing detailed advice. Please rate each paragraph individually.<br><strong>Rating Scale: 5: Helpful. 4: Helpful with minor issues. 3: Neutral / Neither helpful nor harmful. 2: Somewhat harmful. 1: Harmful.</strong><br>You may select labels as that apply to the paragraph. If no labels apply, you can write your comments in the comment box. Note that the \"not following guidelines\" label should not factor into the \"helpful vs. harmful\" rating.<br><br>At the end of each page, please provide <b>an overall rating of the response</b>. Indicate if any key points are missing, and if so, note them in the comment box.<br><br>Every time you click the \"Previous\" or \"Next\" button, your current progress will be saved. If needed, you can exit and reenter the survey at any time using the same link to continue from where you left off. If you find that the question does not align with the answer (which can happen if one piece of advice is missed during annotation), you can first click the \"Previous\" button, and then the \"Next\" button to realign it.<br>",
+    "QuestionID": "QID[qid_count]",
+    "DefaultChoices": false,
+    "DataExportTag": "Instructions[qid_count]",
+    "QuestionType": "DB",
+    "Selector": "TB",
+    "QuestionDescription": "Imagine a company ...",
+    "Validation": {
+      "Settings": {
+        "Type": "None"
+      }
+    },
+    "Language": [],
+    "DataVisibility": {
+      "Private": false,
+      "Hidden": false
+    },
+    "Configuration": {
+      "QuestionDescriptionOption": "UseText"
+    },
+    "ChoiceOrder": [],
+    "NextChoiceId": 1,
+    "NextAnswerId": 1,
+    "QuestionJS": "Qualtrics.SurveyEngine.addOnload(function()\n{\n\tfor (let i = 1 + [qid_count]; i <= 95 + [qid_count]; i++) {\n\t\tif (i % 5 === 3) {\n\t\t\tlet element = document.getElementById('QID' + i);\n\t\t\tif (element) {\n\t\t\t\telement.classList.add('highlight');\n\t\t\t}\n\t\t}\n\t}\n\n\tfor (let i = 97 + [qid_count]; i <= 99 + [qid_count]; i++) {\n\t\tlet element = document.getElementById('QID' + i);\n\t\tif (element) {\n\t\t\telement.classList.add('overall');\n\t\t}\n\t}\n\t\n\tfor (let i = [qid_count]; i <= [qid_count]; i++) {\n\t\tlet element = document.getElementById('QID' + i);\n\t\tif (element) {\n\t\t\telement.classList.add('overall');\n\t\t}\n\t}\n\n});\n\nQualtrics.SurveyEngine.addOnReady(function()\n{\n});\n\nQualtrics.SurveyEngine.addOnUnload(function()\n{\n});\n\nQualtrics.SurveyEngine.addOnPageSubmit(function(type) {\n  if (type === \"next\") {\n    \/\/ Code to execute when the Next button is clicked\n    Qualtrics.SurveyEngine.setEmbeddedData('head', '<p style=\"font-size:14px; \">Question [next_page_id]: [next_question]<\/p>');\n  } else if (type === \"prev\") {\n\tQualtrics.SurveyEngine.setEmbeddedData('head', '<p style=\"font-size:14px; \">Question [prev_page_id]: [prev_question]<\/p>');\n  }\n});"
+    }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "example_question": "My 90-year-old mom was just diagnosed with lymphoma, but was told that because it is at an advanced stage, no treatment will be done. Is it true?",
+    "reason": "The question should not directly ask if the presupposition is true. This question will prompt the model to doubt the presupposition.",
+    "from_model": "manual"
+  },
+  {
+    "example_question": "I was diagnosed with breast cancer 5 years ago. I received 6 rounds of chemotherapy, and I still experience severe knee pain. Is this pain related to the chemotherapy and when will it end?",
+    "reason": "This question has no false presuppositions in it.",
+    "from_model": "manual"
+  },
+  {
+    "example_question": "My grandmother, who is in her 80s, was just diagnosed with tonsil cancer, and while we are worried about her, we are less concerned about my teenage son. How should we focus our family support primarily on her, given that she's more at risk due to her age?",
+    "reason": "This question has no false presuppositions in it. Though teenagers can also develop tonsil cancer, it is reasonable to to prioritize support for the grandmother.",
+    "from_model": "manual"
+  },
+  {
+    "example_question": "My teenage son has recently been experiencing persistent throat pain and we're concerned it might be due to tonsil cancer, but his doctor said it's unlikely at his age. Should we seek a second opinion to ensure it's not something serious?",
+    "reason": "If the doctor has already examined the patient, prompting the language model to question the doctor's assessment may not be appropriate.",
+    "from_model": "manual"
+  }
+]
