@@ -112,7 +112,7 @@ Evaluation and Analysis:
 Citation
 ---------------
 ```
-@misc{zhu2025cancermythevaluatingaichatbot,
+@article{zhu2025cancermythevaluatingaichatbot,
       title={{C}ancer-{M}yth: Evaluating AI Chatbot on Patient Questions with False Presuppositions}, 
       author={Wang Bill Zhu and Tianqi Chen and Ching Ying Lin and Jade Law and Mazen Jizzini and Jorge J. Nieva and Ruishan Liu and Robin Jia},
       year={2025},
