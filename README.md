@@ -1,7 +1,7 @@
 Cancer Myth
 =======================================
 
-*Todos: add huggingface data link, add arxiv link, add repo description, add citation.*
+🤗 **[Dataset on HuggingFace](https://huggingface.co/datasets/Cancer-Myth/Cancer-Myth)**  | 📄 **[Paper Link](https://arxiv.org/abs/2504.11373)**   | 🌐 **[Project Website](https://cancermyth.github.io/)**  
 
 <p align="center">
   <img src="figures/cancer_myth_pipeline.jpg" alt="overview"/>
@@ -111,3 +111,11 @@ Evaluation and Analysis:
 
 Citation
 ---------------
+```
+@misc{zhu2025cancermythevaluatingaichatbot,
+      title={{C}ancer-{M}yth: Evaluating AI Chatbot on Patient Questions with False Presuppositions}, 
+      author={Wang Bill Zhu and Tianqi Chen and Ching Ying Lin and Jade Law and Mazen Jizzini and Jorge J. Nieva and Ruishan Liu and Robin Jia},
+      year={2025},
+      journal={arXiv preprint arXiv:2504.11373},
+}
+```
