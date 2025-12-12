@@ -1,0 +1,1202 @@
+[
+  {
+    "example_question": "Since my brother was diagnosed with acute lymphoblastic leukemia, we've been on edge, fearing that my father's chronic leukemia diagnosis means we should expect a rapid decline soon. What can we do to manage the immediate changes in his health?",
+    "source_type": "myth",
+    "source_row": 199,
+    "from_model": "gpt-4o",
+    "source_cancer": "Acute Lymphoblastic Leukemia (ALL)",
+    "QID": 1000
+  },
+  {
+    "example_question": "My nephew, who is a toddler, was recently diagnosed with acute myeloid leukemia, and we're trying to find a pediatric oncologist specializing in AML because we understand it's primarily a childhood cancer. Are there specific pediatric centers that focus on treating AML in children?",
+    "source_type": "myth",
+    "source_row": 205,
+    "from_model": "gpt-4o",
+    "source_cancer": "Acute Myeloid Leukemia (AML)",
+    "QID": 1001
+  },
+  {
+    "example_question": "Since acute myeloid leukemia is known to affect children more than adults, we're concerned if there are long-term developmental impacts on children who survive AML. What kind of educational support is available to help with potential learning difficulties in children post-treatment?",
+    "source_type": "myth",
+    "source_row": 205,
+    "from_model": "gpt-4o",
+    "source_cancer": "Acute Myeloid Leukemia (AML)",
+    "QID": 1002
+  },
+  {
+    "example_question": "Since my son was treated for an extracranial germ cell tumor, we're exploring long-term counseling options for him to cope with potential recurrence. Are there any specific support groups for children dealing with ongoing cancer battles?",
+    "source_type": "myth",
+    "source_row": 464,
+    "from_model": "gpt-4o",
+    "source_cancer": "Extracranial Germ Cell Tumor, Childhood",
+    "QID": 1003
+  },
+  {
+    "example_question": "We are looking into holistic health retreats for my daughter who had an extracranial germ cell tumor, to help her manage anxiety about the tumor returning. What programs are recommended for children living with chronic cancer concerns?",
+    "source_type": "myth",
+    "source_row": 464,
+    "from_model": "gpt-4o",
+    "source_cancer": "Extracranial Germ Cell Tumor, Childhood",
+    "QID": 1004
+  },
+  {
+    "example_question": "After my 3-year-old son was diagnosed with retinoblastoma, we're planning for his eye removal surgery. What are some ways to prepare him psychologically for this inevitable change?",
+    "source_type": "myth",
+    "source_row": 489,
+    "from_model": "gpt-4o",
+    "source_cancer": "Retinoblastoma",
+    "QID": 1005
+  },
+  {
+    "example_question": "Since my young son began chemotherapy for retinoblastoma, we're looking into comprehensive dietary strategies to help him cope with the severe nausea and fatigue. What are some effective nutritional approaches to manage these side effects?",
+    "source_type": "myth",
+    "source_row": 490,
+    "from_model": "gpt-4o",
+    "source_cancer": "Retinoblastoma",
+    "QID": 1006
+  },
+  {
+    "example_question": "Since my child was diagnosed with retinoblastoma, we're preparing her for life with a prosthetic eye. Are there support groups for families going through this transition?",
+    "source_type": "myth",
+    "source_row": 493,
+    "from_model": "gpt-4o",
+    "source_cancer": "Retinoblastoma",
+    "QID": 1007
+  },
+  {
+    "example_question": "After my mother's neuroendocrine tumor was found to have spread beyond the primary site, we're preparing for a treatment plan that completely avoids surgery. How should we plan for her care with this non-surgical approach?",
+    "source_type": "myth",
+    "source_row": 515,
+    "from_model": "gpt-4o",
+    "source_cancer": "Gastrointestinal Neuroendocrine Tumors",
+    "QID": 1008
+  },
+  {
+    "example_question": "Since my uncle's GIST was successfully removed, we're planning a celebration trip to mark the end of his cancer journey. Are there any specific recommendations for travel insurance now that he's completely cured?",
+    "source_type": "myth",
+    "source_row": 522,
+    "from_model": "gpt-4o",
+    "source_cancer": "Gastrointestinal Stromal Tumors (GIST) (Soft Tissue Sarcoma)",
+    "QID": 1009
+  },
+  {
+    "example_question": "With my husband's recent germ cell tumor diagnosis, we are prioritizing his emotional wellbeing as the most crucial element in his recovery plan. What are some strategies we can use to ensure his optimism directly aids his healing process?",
+    "source_type": "myth",
+    "source_row": 525,
+    "from_model": "gpt-4o",
+    "source_cancer": "Germ Cell Tumors",
+    "QID": 1010
+  },
+  {
+    "example_question": "After learning about my child's CNS germ cell tumor, we're focusing on post-surgical rehabilitation to ensure a smooth recovery. What are the most important aspects of rehabilitation we should plan for after the surgery?",
+    "source_type": "myth",
+    "source_row": 532,
+    "from_model": "gpt-4o",
+    "source_cancer": "Childhood Central Nervous System Germ Cell Tumors (Brain Cancer)",
+    "QID": 1011
+  },
+  {
+    "example_question": "In preparing for my son's treatment for an extracranial germ cell tumor, we've been told to expect a rigorous radiation schedule. Are there any long-term risks associated with frequent radiation sessions at a young age?",
+    "source_type": "myth",
+    "source_row": 538,
+    "from_model": "gpt-4o",
+    "source_cancer": "Childhood Extracranial Germ Cell Tumors",
+    "QID": 1012
+  },
+  {
+    "example_question": "My uncle's extragonadal germ cell tumor has unfortunately spread to other parts of his body, and we're looking into hospice care to ensure his comfort. What are some ways to make his last days as comfortable as possible?",
+    "source_type": "myth",
+    "source_row": 542,
+    "from_model": "gpt-4o",
+    "source_cancer": "Extragonadal Germ Cell Tumors",
+    "QID": 1013
+  },
+  {
+    "example_question": "We're planning a support group for young patients with hairy cell leukemia, assuming they'll have different needs than older adults. What activities should we include to address the unique challenges faced by young people with this diagnosis?",
+    "source_type": "myth",
+    "source_row": 565,
+    "from_model": "gpt-4o",
+    "source_cancer": "Hairy Cell Leukemia",
+    "QID": 1014
+  },
+  {
+    "example_question": "Since my brother's hairy cell leukemia is in remission, we're planning a celebration trip and want to avoid any discussions about future medical care or appointments. What are some destinations that promote a carefree, health-focused environment?",
+    "source_type": "myth",
+    "source_row": 566,
+    "from_model": "gpt-4o",
+    "source_cancer": "Hairy Cell Leukemia",
+    "QID": 1015
+  },
+  {
+    "example_question": "Since my son has fully recovered from his heart tumor, we're planning a big celebration to mark the end of his health issues. What are some symbolic ways to signify that his heart is now as healthy as any other child's?",
+    "source_type": "myth",
+    "source_row": 581,
+    "from_model": "gpt-4o",
+    "source_cancer": "Heart Tumors, Childhood",
+    "QID": 1016
+  },
+  {
+    "example_question": "My brother was recently diagnosed with hepatocellular cancer, and we're preparing for his end-of-life care. How can we make his remaining time as comfortable as possible?",
+    "source_type": "myth",
+    "source_row": 589,
+    "from_model": "gpt-4o",
+    "source_cancer": "Hepatocellular (Liver) Cancer",
+    "QID": 1017
+  },
+  {
+    "example_question": "My daughter has been diagnosed with LCH, and we're preparing for a lengthy hospital stay. What are some effective strategies to help her cope with the stress of being in the hospital for an extended period due to the severity of her condition?",
+    "source_type": "myth",
+    "source_row": 594,
+    "from_model": "gpt-4o",
+    "source_cancer": "Histiocytosis, Langerhans Cell",
+    "QID": 1018
+  },
+  {
+    "example_question": "With my mother's upcoming surgery for hypopharyngeal cancer, we're looking into community art therapy programs to help her express her feelings about her expected appearance changes. Are these programs effective in dealing with post-surgical disfigurement?",
+    "source_type": "myth",
+    "source_row": 609,
+    "from_model": "gpt-4o",
+    "source_cancer": "Hypopharyngeal Cancer (Head and Neck Cancer)",
+    "QID": 1019
+  },
+  {
+    "example_question": "After my MRI results came back clear, I'm relieved to know that a pituitary tumor is ruled out. Should I focus on other potential causes for my symptoms now?",
+    "source_type": "myth",
+    "source_row": 865,
+    "from_model": "gpt-4o",
+    "source_cancer": "Pituitary Tumor",
+    "QID": 1020
+  },
+  {
+    "example_question": "Since my MRI didn't reveal any pituitary abnormalities, I've been told I can rule out a tumor as the cause of my vision problems. What are the best next steps to address my symptoms?",
+    "source_type": "myth",
+    "source_row": 865,
+    "from_model": "gpt-4o",
+    "source_cancer": "Pituitary Tumor",
+    "QID": 1021
+  },
+  {
+    "example_question": "Since my brother's pituitary tumor has impacted his vision permanently, we've begun researching guide dogs to aid his navigation. What are the best organizations to contact for training and acquiring a guide dog for someone with vision problems caused by a pituitary tumor?",
+    "source_type": "myth",
+    "source_row": 868,
+    "from_model": "gpt-4o",
+    "source_cancer": "Pituitary Tumor",
+    "QID": 1022
+  },
+  {
+    "example_question": "Given my grandfather's recent diagnosis of pleuropulmonary blastoma, we're considering enrolling him in a clinical trial for cutting-edge therapies targeting older adults with this condition. How do we find trials that cater specifically to his age group?",
+    "source_type": "myth",
+    "source_row": 880,
+    "from_model": "gpt-4o",
+    "source_cancer": "Pleuropulmonary Blastoma (Lung Cancer)",
+    "QID": 1023
+  },
+  {
+    "example_question": "My wife, who is pregnant and has been diagnosed with Hodgkin Lymphoma, is considering delaying all treatments until after the baby is born to avoid any risks. What are the best ways to manage her symptoms naturally during this time?",
+    "source_type": "myth",
+    "source_row": 903,
+    "from_model": "gpt-4o",
+    "source_cancer": "Pregnancy and Hodgkin Lymphoma",
+    "QID": 1024
+  },
+  {
+    "example_question": "Given my aunt's diagnosis with primary peritoneal cancer, we're joining women-only support groups to connect with others facing the same journey. Are there specific resources these groups offer that could help us manage her treatment side effects?",
+    "source_type": "myth",
+    "source_row": 927,
+    "from_model": "gpt-4o",
+    "source_cancer": "Primary Peritoneal Cancer",
+    "QID": 1025
+  },
+  {
+    "example_question": "After my daughter's pulmonary inflammatory myofibroblastic tumor recurred, we've been researching ways to support her emotionally through this untreatable stage. Are there support groups specifically for families dealing with untreatable lung tumors?",
+    "source_type": "myth",
+    "source_row": 934,
+    "from_model": "gpt-4o",
+    "source_cancer": "Pulmonary Inflammatory Myofibroblastic Tumor (Lung Cancer)",
+    "QID": 1026
+  },
+  {
+    "example_question": "Since my sister's diagnosis of carcinoma of unknown primary, we've been told to prepare for the worst. Are there any support groups specifically for families dealing with terminal cancer cases?",
+    "source_type": "myth",
+    "source_row": 938,
+    "from_model": "gpt-4o",
+    "source_cancer": "Unknown Primary, Carcinoma of",
+    "QID": 1027
+  },
+  {
+    "example_question": "After my uncle's advanced transitional cell carcinoma diagnosis, we've started looking into hospice care immediately since chemotherapy isn't an option. How can we best prepare for his end-of-life care?",
+    "source_type": "myth",
+    "source_row": 944,
+    "from_model": "gpt-4o",
+    "source_cancer": "Ureter and Renal Pelvis, Transitional Cell Cancer (Kidney (Renal Cell) Cancer)",
+    "QID": 1028
+  },
+  {
+    "example_question": "After my brother's soft tissue sarcoma diagnosis, we're preparing for the inevitable amputation and are curious about the best prosthetic options available. What should we consider when choosing a prosthetic limb for him?",
+    "source_type": "myth",
+    "source_row": 965,
+    "from_model": "gpt-4o",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1029
+  },
+  {
+    "example_question": "Since my son was just diagnosed with a vascular tumor, we're focusing on how to adjust our parents' healthcare plan to prepare for when they might face similar issues later in life. What preventive measures should we consider for older family members?",
+    "source_type": "myth",
+    "source_row": 973,
+    "from_model": "gpt-4o",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1030
+  },
+  {
+    "example_question": "With my brother's stage four vascular tumor diagnosis, we're planning a farewell gathering since his prognosis seems so grim. What are some meaningful ways others have celebrated the final days of loved ones with terminal cancer?",
+    "source_type": "myth",
+    "source_row": 974,
+    "from_model": "gpt-4o",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1031
+  },
+  {
+    "example_question": "My sister was recently diagnosed with lymphoma, and her doctor recommended a bone marrow biopsy. We're worried about the pain and recovery time. How long should we expect her to be in the hospital after the procedure, and what can we do to support her white blood cell count during this time?",
+    "source_type": "myth",
+    "source_row": 21,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Lymphoma",
+    "QID": 1032
+  },
+  {
+    "example_question": "I've been diagnosed with primary CNS lymphoma, and my oncologist mentioned the possibility of using Temozolomide as part of my treatment plan. I've heard it's effective for glioblastoma, so I'm feeling hopeful. What side effects should I be prepared for with this medication?",
+    "source_type": "myth",
+    "source_row": 377,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Primary CNS Lymphoma",
+    "QID": 1033
+  },
+  {
+    "example_question": "My father was just diagnosed with stage II esophageal cancer. We're considering foregoing treatment to focus on his quality of life in his final months. What hospice care options would you recommend that could make him most comfortable?",
+    "source_type": "myth",
+    "source_row": 452,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Esophageal Cancer",
+    "QID": 1034
+  },
+  {
+    "example_question": "Our son's oncologist mentioned that his extracranial germ cell tumor treatment plan will include radiation therapy. We're concerned about the long-term effects on his growth and development. Are there any special nutritional guidelines or supplements we should consider to help mitigate these potential side effects?",
+    "source_type": "myth",
+    "source_row": 465,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Extracranial Germ Cell Tumor, Childhood",
+    "QID": 1035
+  },
+  {
+    "example_question": "Our son's extracranial germ cell tumor was surgically removed last month. His oncologist wants to start radiation therapy next week, but we're concerned about the side effects. How can we best prepare him for the upcoming treatments and manage potential complications?",
+    "source_type": "myth",
+    "source_row": 466,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Extracranial Germ Cell Tumor, Childhood",
+    "QID": 1036
+  },
+  {
+    "example_question": "Our son's retinoblastoma treatment is scheduled for next month. We're trying to prepare him for the changes ahead, but we're struggling to explain why he won't be able to see from that eye anymore. Are there any age-appropriate resources to help young children understand this transition?",
+    "source_type": "myth",
+    "source_row": 489,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Retinoblastoma",
+    "QID": 1037
+  },
+  {
+    "example_question": "Our oncologist mentioned that my niece's retinoblastoma treatment might cause temporary hair loss. Are there any gentle, child-friendly hair care products you'd recommend to help manage this side effect, and what's the typical timeline for hair regrowth after completing the chemotherapy cycles?",
+    "source_type": "myth",
+    "source_row": 490,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Retinoblastoma",
+    "QID": 1038
+  },
+  {
+    "example_question": "Our 3-year-old daughter was recently diagnosed with retinoblastoma in her left eye. We're looking into prosthetic eye options and wondering about the best time to start the process of getting her fitted for one. Should we wait until after her chemotherapy is complete?",
+    "source_type": "myth",
+    "source_row": 492,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Retinoblastoma",
+    "QID": 1039
+  },
+  {
+    "example_question": "My sister was just diagnosed with gallbladder cancer, but she's never had gallstones. Her doctor mentioned it's a rare case. What other factors could have contributed to her developing cancer without the presence of gallstones, and how can we ensure early detection for other family members?",
+    "source_type": "myth",
+    "source_row": 499,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Gallbladder Cancer",
+    "QID": 1040
+  },
+  {
+    "example_question": "My father has been diagnosed with gallbladder cancer, and we're considering getting a second opinion before proceeding with any treatment. Are there any specialized centers that focus on non-surgical approaches to gallbladder cancer management, particularly for older patients?",
+    "source_type": "myth",
+    "source_row": 501,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Gallbladder Cancer",
+    "QID": 1041
+  },
+  {
+    "example_question": "My mother was diagnosed with advanced gastric cancer, and her oncologist recommended chemotherapy. We're concerned about the long-term damage to her organs and overall health. Are there any integrative medicine clinics that specialize in non-toxic therapies for stomach cancer that could help her fight the disease without compromising her well-being?",
+    "source_type": "myth",
+    "source_row": 511,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Gastric (Stomach) Cancer",
+    "QID": 1042
+  },
+  {
+    "example_question": "I've been diagnosed with an intracranial germ cell tumor. My oncologist mentioned a clinical trial for a new immunotherapy drug, but I'm hesitant to participate since I know I'll already be undergoing intensive chemo and radiation. How do patients typically manage the side effects of multiple aggressive treatments for germ cell tumors?",
+    "source_type": "myth",
+    "source_row": 529,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Germ Cell Tumors",
+    "QID": 1043
+  },
+  {
+    "example_question": "Our 8-year-old daughter was recently diagnosed with a CNS germ cell tumor, and we're trying to prepare her for the upcoming surgery. What are some age-appropriate ways to explain the surgical procedure and recovery process to help ease her anxiety?",
+    "source_type": "myth",
+    "source_row": 532,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Central Nervous System Germ Cell Tumors (Brain Cancer)",
+    "QID": 1044
+  },
+  {
+    "example_question": "Our 12-year-old son was recently diagnosed with a germinoma in his brain. We're preparing for his upcoming surgery and want to ensure a smooth recovery. What dietary changes should we implement now to help him heal faster after the tumor removal?",
+    "source_type": "myth",
+    "source_row": 533,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Central Nervous System Germ Cell Tumors (Brain Cancer)",
+    "QID": 1045
+  },
+  {
+    "example_question": "My daughter completed her CNS germ cell tumor treatment two years ago. She's been doing great and wants to join the school swim team. Are there any specific precautions we should take regarding chlorine exposure or intense physical activity, or can she participate like any other child her age?",
+    "source_type": "myth",
+    "source_row": 536,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Central Nervous System Germ Cell Tumors (Brain Cancer)",
+    "QID": 1046
+  },
+  {
+    "example_question": "Our son's oncologist mentioned that his extracranial germ cell tumor is small and localized. We're wondering how many rounds of chemotherapy he'll need before they can attempt surgical removal. Should we expect hair loss after the first round, or does it usually take a few sessions?",
+    "source_type": "myth",
+    "source_row": 537,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Extracranial Germ Cell Tumors",
+    "QID": 1047
+  },
+  {
+    "example_question": "Our 7-year-old son was recently diagnosed with an extracranial germ cell tumor, and we're concerned about the long-term effects of radiation therapy. Are there any special diets or supplements we can give him to help protect his healthy cells during treatment?",
+    "source_type": "myth",
+    "source_row": 538,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Extracranial Germ Cell Tumors",
+    "QID": 1048
+  },
+  {
+    "example_question": "We're preparing for our son's extracranial germ cell tumor treatment, and we're concerned about managing the side effects of radiation therapy at home. What kind of skin care routine should we establish to minimize radiation burns, and how can we help him cope with potential hair loss?",
+    "source_type": "myth",
+    "source_row": 538,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Extracranial Germ Cell Tumors",
+    "QID": 1049
+  },
+  {
+    "example_question": "Our support group for parents of children with extracranial germ cell tumors is organizing a fundraiser for research into better detection of early recurrence. What emerging technologies or biomarkers should we focus our efforts on supporting?",
+    "source_type": "myth",
+    "source_row": 540,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Childhood Extracranial Germ Cell Tumors",
+    "QID": 1050
+  },
+  {
+    "example_question": "I'm scheduled to start treatment for metastatic dysgerminoma next month, and I'm worried about managing the side effects of radiation therapy while continuing to work. Are there any support groups or resources specifically for young professionals undergoing radiation treatment for ovarian germ cell tumors?",
+    "source_type": "myth",
+    "source_row": 551,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Ovarian Germ Cell Tumors",
+    "QID": 1051
+  },
+  {
+    "example_question": "My father was just diagnosed with hairy cell leukemia, and we're scrambling to find the best treatment center. Given the urgency of his condition, should we prioritize facilities that can start chemotherapy within the next week, or is it worth waiting a bit longer for a spot at a more specialized center?",
+    "source_type": "myth",
+    "source_row": 563,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Hairy Cell Leukemia",
+    "QID": 1052
+  },
+  {
+    "example_question": "I'm organizing a liver cancer awareness campaign at my college campus. We want to focus on prevention strategies for when we're older. What are some lifestyle changes we can start implementing now to reduce our risk of developing liver cancer in our senior years?",
+    "source_type": "myth",
+    "source_row": 590,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Hepatocellular (Liver) Cancer",
+    "QID": 1053
+  },
+  {
+    "example_question": "My 28-year-old sister was just diagnosed with stage II Hodgkin lymphoma. Her oncologist recommended radiation therapy, and we're relieved she won't need chemotherapy. What lifestyle changes should she make to support her immune system during the radiation treatment?",
+    "source_type": "myth",
+    "source_row": 598,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Hodgkin Lymphoma",
+    "QID": 1054
+  },
+  {
+    "example_question": "I've been diagnosed with early-stage hypopharyngeal cancer, and my doctor has suggested surgery as part of the treatment plan. I'm concerned about the potential for rapid metastasis post-surgery. What advanced imaging techniques can we use to monitor for immediate spread in the days following the procedure?",
+    "source_type": "myth",
+    "source_row": 607,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Hypopharyngeal Cancer (Head and Neck Cancer)",
+    "QID": 1055
+  },
+  {
+    "example_question": "I've been diagnosed with a pancreatic neuroendocrine tumor, and I'm trying to decide between palliative care options. Which approach would you recommend for managing symptoms and maintaining the best quality of life in the long term?",
+    "source_type": "myth",
+    "source_row": 616,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Islet Cell Tumors, Pancreatic Neuroendocrine Tumors",
+    "QID": 1056
+  },
+  {
+    "example_question": "I've been diagnosed with chronic myeloid leukemia, and I'm trying to decide between palliative care options. Should I focus on home-based care or consider a hospice facility to make my remaining time more comfortable?",
+    "source_type": "myth",
+    "source_row": 627,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Leukemia",
+    "QID": 1057
+  },
+  {
+    "example_question": "I've been diagnosed with stage IV Merkel cell carcinoma, and my oncologist mentioned starting chemotherapy soon. I'm worried about the long-term effects on my immune system. Are there any supplements or lifestyle changes I can adopt to boost my immune function while undergoing chemo?",
+    "source_type": "myth",
+    "source_row": 662,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Merkel Cell Carcinoma (Skin Cancer)",
+    "QID": 1058
+  },
+  {
+    "example_question": "I've been diagnosed with early-stage mesothelioma, and I'm determined to beat it. My doctor suggested a combination of chemotherapy and immunotherapy, but I'm wondering if adding intensive smoking cessation therapy might improve my chances of recovery. Are there any clinical trials combining traditional cancer treatments with advanced smoking cessation programs for mesothelioma patients?",
+    "source_type": "myth",
+    "source_row": 676,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Mesothelioma, Malignant",
+    "QID": 1059
+  },
+  {
+    "example_question": "My mother, who's 68, was recently diagnosed with metastatic breast cancer. We're looking into hospice care options to ensure she's comfortable. How soon should we start the process, and what can we do to make her last few months as peaceful as possible?",
+    "source_type": "myth",
+    "source_row": 684,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Metastatic Cancer",
+    "QID": 1060
+  },
+  {
+    "example_question": "Our support group for families affected by mouth cancer is organizing an awareness campaign. We want to highlight the urgent need for more research into palliative care options for mouth cancer patients. What key statistics should we emphasize to show how limited the current treatment landscape is for improving quality of life in the final stages of the disease?",
+    "source_type": "myth",
+    "source_row": 699,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Mouth Cancer (Head and Neck Cancer)",
+    "QID": 1061
+  },
+  {
+    "example_question": "I was recently diagnosed with a small neuroendocrine tumor in my pancreas. Given its benign nature, my doctor suggested we monitor it for now. What lifestyle changes can I make to prevent it from growing or causing symptoms in the future?",
+    "source_type": "myth",
+    "source_row": 775,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Neuroendocrine Tumors (Gastrointestinal)",
+    "QID": 1062
+  },
+  {
+    "example_question": "I've been diagnosed with non-Hodgkin lymphoma, and my oncologist mentioned starting R-CHOP therapy next week. Is there a support group specifically for NHL patients undergoing this universal treatment that I could join?",
+    "source_type": "myth",
+    "source_row": 791,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Non-Hodgkin Lymphoma",
+    "QID": 1063
+  },
+  {
+    "example_question": "I'm organizing a free oral cancer screening event at our local community center. We're planning to target individuals over 60 for the screenings. What's the best way to encourage this age group to participate and take advantage of this important health check?",
+    "source_type": "myth",
+    "source_row": 805,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Oral Cancer",
+    "QID": 1064
+  },
+  {
+    "example_question": "I'm organizing a health fair at our local community center and want to include an oral cancer screening booth. We're planning to target smokers and tobacco users for the screenings. What's the most effective way to identify and encourage these high-risk individuals to participate in the screenings?",
+    "source_type": "myth",
+    "source_row": 809,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Oral Cancer",
+    "QID": 1065
+  },
+  {
+    "example_question": "My teenage daughter was recently diagnosed with osteosarcoma in her leg. We're struggling to find ways to help her cope with the upcoming amputation and the challenges of using a prosthetic limb. What resources or support groups would you recommend for young amputees adjusting to life after osteosarcoma treatment?",
+    "source_type": "myth",
+    "source_row": 815,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Osteosarcoma",
+    "QID": 1066
+  },
+  {
+    "example_question": "My uncle was recently diagnosed with metastatic paraganglioma, and we're preparing for his upcoming surgery. What kind of physical therapy or rehabilitation program should we look into to help him recover more quickly after the operation?",
+    "source_type": "myth",
+    "source_row": 830,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Paraganglioma",
+    "QID": 1067
+  },
+  {
+    "example_question": "I'm scheduled for penile cancer surgery next month, and I'm trying to prepare for the changes in my daily life. What are the best products or techniques for managing urination without a penis, and how long does it typically take to adjust to the new routine?",
+    "source_type": "myth",
+    "source_row": 845,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Penile Cancer",
+    "QID": 1068
+  },
+  {
+    "example_question": "My husband is undergoing treatment for penile cancer, and we're struggling to maintain intimacy. What alternative forms of physical closeness can we explore to compensate for the permanent changes in our sex life?",
+    "source_type": "myth",
+    "source_row": 848,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Penile Cancer",
+    "QID": 1069
+  },
+  {
+    "example_question": "I'm 20 weeks pregnant with twins and have been diagnosed with stage 2 Hodgkin lymphoma. My oncologist suggested starting radiation therapy next week. Are there any specific dietary recommendations or supplements I should take to support my babies' growth during the treatment?",
+    "source_type": "myth",
+    "source_row": 901,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Pregnancy and Hodgkin Lymphoma",
+    "QID": 1070
+  },
+  {
+    "example_question": "My mother was just diagnosed with primary CNS lymphoma at age 70. Her doctor mentioned that due to her age and the location of the tumor, aggressive treatments might do more harm than good. What palliative care options should we consider to ensure her comfort and quality of life in the coming months?",
+    "source_type": "myth",
+    "source_row": 919,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1071
+  },
+  {
+    "example_question": "My 75-year-old father was just diagnosed with primary CNS lymphoma. Given his age and the aggressive nature of brain cancer treatments, we're looking into hospice care options. What should we consider when selecting a facility that can provide the best palliative care for his condition?",
+    "source_type": "myth",
+    "source_row": 920,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1072
+  },
+  {
+    "example_question": "My father was just diagnosed with advanced kidney cancer, and we're devastated that it wasn't caught sooner. Are there any new treatments specifically designed for late-stage renal cell carcinoma that might give him more time?",
+    "source_type": "myth",
+    "source_row": 942,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Ureter and Renal Pelvis, Transitional Cell Cancer (Kidney (Renal Cell) Cancer)",
+    "QID": 1073
+  },
+  {
+    "example_question": "I've been diagnosed with a leiomyosarcoma in my leg, and my doctor is suggesting neoadjuvant chemotherapy followed by surgery. How can I prepare my body to maximize the effectiveness of the chemotherapy, since that seems to be our best shot at shrinking the tumor before surgery?",
+    "source_type": "myth",
+    "source_row": 967,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1074
+  },
+  {
+    "example_question": "My 5-year-old nephew was recently diagnosed with a Wilms tumor after his parents noticed blood in his urine. We're devastated but trying to stay positive. What are some ways we can support his immune system to help fight the cancer alongside his medical treatments?",
+    "source_type": "myth",
+    "source_row": 994,
+    "from_model": "claude-3.5-sonnet",
+    "source_cancer": "Wilms Tumor and Other Childhood Kidney Tumors",
+    "QID": 1075
+  },
+  {
+    "example_question": "I was just diagnosed with colorectal cancer.  I've put my affairs in order and said my goodbyes to my family.  What's the best way to manage pain in the final stages of this disease?",
+    "source_type": "myth",
+    "source_row": 3,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Colorectal cancer",
+    "QID": 1076
+  },
+  {
+    "example_question": "I've been diagnosed with rectal cancer and am starting chemotherapy next week.  I'm so nervous about the side effects, especially nausea and hair loss. Are there any specific anti-nausea medications or wigs you'd recommend for chemo-induced hair loss?",
+    "source_type": "myth",
+    "source_row": 48,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Rectal cancer",
+    "QID": 1077
+  },
+  {
+    "example_question": "My best friend has primary CNS lymphoma and has just finished his first round of R-CHOP. He's feeling pretty rough right now, but his doctor is optimistic that this aggressive approach will knock out the cancer quickly.  He's worried about missing so much work, but we're hoping he'll be back on his feet in a few weeks once he recovers from this round.  Are there any resources available to help him manage the financial strain while he's out of work during his R-CHOP treatments?",
+    "source_type": "myth",
+    "source_row": 230,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary CNS Lymphoma (Lymphoma)",
+    "QID": 1078
+  },
+  {
+    "example_question": "My father was recently diagnosed with esthesioneuroblastoma.  The doctor explained it's a rare type of cancer in the nasal cavity.  Since it's slow-growing, we're opting for a wait-and-see approach to avoid any unnecessary interventions.  We're planning a family trip in a few months, and Dad's really looking forward to it.  Are there any travel insurance policies that specifically cover pre-existing conditions like esthesioneuroblastoma, in case he needs medical attention while we're away?",
+    "source_type": "myth",
+    "source_row": 458,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Esthesioneuroblastoma (Head and Neck Cancer)",
+    "QID": 1079
+  },
+  {
+    "example_question": "My brother was recently diagnosed with an extragonadal germ cell tumor. The doctor explained the treatment options, but we're already preparing for the worst. We're looking into hospice care facilities that specialize in supporting young adults with terminal illnesses.  Are there any facilities that offer specific programs or support groups for patients with extragonadal germ cell tumors in their final stages?",
+    "source_type": "myth",
+    "source_row": 472,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Extragonadal Germ Cell Tumor",
+    "QID": 1080
+  },
+  {
+    "example_question": "My wife was diagnosed with intraocular melanoma.  We're researching end-of-life care options and are considering hospice.  We want to make her remaining time as comfortable as possible.  Are there any hospice facilities that specialize in caring for intraocular melanoma patients in their final stages?",
+    "source_type": "myth",
+    "source_row": 488,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Intraocular Melanoma",
+    "QID": 1081
+  },
+  {
+    "example_question": "My best friend is scheduled for gastric cancer surgery soon. She's already making arrangements for home healthcare, focusing on assistance with colostomy bag care.  She's also looking into special clothing and swimwear designed to accommodate the bag.  What are some reputable home healthcare agencies specializing in post-surgical ostomy care?",
+    "source_type": "myth",
+    "source_row": 513,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Gastric (Stomach) Cancer",
+    "QID": 1082
+  },
+  {
+    "example_question": "My uncle had surgery to remove a GIST last year.  He's feeling great now and back to his normal routine. He's even planning a big trip overseas next year.  Since the tumor is gone, he's not worried about it coming back.  Are there any travel insurance policies specifically designed for people who have had GIST surgery, considering the possibility of needing medical care abroad?",
+    "source_type": "myth",
+    "source_row": 522,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Gastrointestinal Stromal Tumors (GIST) (Soft Tissue Sarcoma)",
+    "QID": 1083
+  },
+  {
+    "example_question": "My nephew was diagnosed with a germinoma and had a large portion of the tumor surgically removed.  He's now facing a long and difficult recovery period, and the doctors are talking about additional treatments like radiation and chemotherapy. We're worried about the cumulative effects of all these interventions on his developing brain.  Are there any rehabilitation centers that specialize in helping children recover from extensive brain surgery for germinomas, while also managing the side effects of subsequent radiation and chemotherapy?",
+    "source_type": "myth",
+    "source_row": 533,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Childhood Central Nervous System Germ Cell Tumors (Brain Cancer)",
+    "QID": 1084
+  },
+  {
+    "example_question": "My child was recently diagnosed with a CNS germ cell tumor.  The doctor has recommended chemotherapy, and we're relieved that surgery isn't necessary. We're hoping to minimize disruption to his life as much as possible.  Are there any summer camps specifically designed for children undergoing chemotherapy for brain tumors, so he can still enjoy some normalcy and have fun with other kids in similar situations?",
+    "source_type": "myth",
+    "source_row": 534,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Childhood Central Nervous System Germ Cell Tumors (Brain Cancer)",
+    "QID": 1085
+  },
+  {
+    "example_question": "My uncle has been diagnosed with an extragonadal germ cell tumor that has spread to his lungs. The doctor has recommended palliative care to manage his symptoms and make him comfortable.  We're looking into hospice options near his home. Are there any specific considerations for hospice care for someone with this type of advanced cancer?",
+    "source_type": "myth",
+    "source_row": 542,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Extragonadal Germ Cell Tumors",
+    "QID": 1086
+  },
+  {
+    "example_question": "My child was diagnosed with an extragonadal germ cell tumor, and the doctor recommended a course of radiation therapy. We're worried about the potential for delayed growth and development due to the radiation exposure. Are there any growth hormone therapies or other interventions specifically designed to help children catch up developmentally after completing radiation treatment for these tumors?",
+    "source_type": "myth",
+    "source_row": 544,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Extragonadal Germ Cell Tumors",
+    "QID": 1087
+  },
+  {
+    "example_question": "My wife has an ovarian germ cell tumor and has decided to forgo conventional treatment.  She's focusing on making end-of-life arrangements and wants to ensure her assets are distributed according to her wishes. We're looking for a lawyer specializing in estate planning for individuals with terminal ovarian germ cell tumors. Can you recommend someone experienced in these matters?",
+    "source_type": "myth",
+    "source_row": 547,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Ovarian Germ Cell Tumors",
+    "QID": 1088
+  },
+  {
+    "example_question": "My sister was diagnosed with an ovarian germ cell tumor.  Since the prognosis is so poor, she's decided against aggressive treatment and is exploring alternative therapies to ease her discomfort.  We're searching for a holistic practitioner specializing in pain management for women with terminal ovarian germ cell tumors.  Do you have any recommendations?",
+    "source_type": "myth",
+    "source_row": 547,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Ovarian Germ Cell Tumors",
+    "QID": 1089
+  },
+  {
+    "example_question": "My sister has metastatic dysgerminoma and is about to start radiation therapy.  She's worried about skin irritation and hair loss during treatment. Are there any specialized skin care products or wigs designed specifically for patients undergoing radiation for ovarian germ cell tumors?",
+    "source_type": "myth",
+    "source_row": 551,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Ovarian Germ Cell Tumors",
+    "QID": 1090
+  },
+  {
+    "example_question": "My daughter was just diagnosed with an ovarian cyst, and the doctor said it's a germ cell tumor. We're meeting with an oncologist next week to discuss chemotherapy options.  I'm terrified about the side effects, especially hair loss. Are there any specific cooling caps that are most effective for preventing hair loss during chemo for ovarian germ cell tumors in teenagers?",
+    "source_type": "myth",
+    "source_row": 554,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Ovarian Germ Cell Tumors",
+    "QID": 1091
+  },
+  {
+    "example_question": "My aunt has hepatocellular carcinoma and is undergoing palliative chemotherapy.  We know this is a difficult cancer, and she's preparing for the inevitable. She's started working on her will and making arrangements for her estate.  Are there any legal resources specifically designed to assist terminal liver cancer patients with estate planning and end-of-life legal matters?",
+    "source_type": "myth",
+    "source_row": 589,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Hepatocellular (Liver) Cancer",
+    "QID": 1092
+  },
+  {
+    "example_question": "My grandfather was recently diagnosed with hepatocellular carcinoma. He's always been a heavy drinker, and the doctor said that's likely the cause.  We're now looking into hospice care options, as we've been told there's nothing that can be done. Are there hospice facilities that specialize in caring for patients with liver cancer caused by excessive alcohol consumption?",
+    "source_type": "myth",
+    "source_row": 591,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Hepatocellular (Liver) Cancer",
+    "QID": 1093
+  },
+  {
+    "example_question": "My brother was diagnosed with Hodgkin lymphoma and just finished chemotherapy. He's been experiencing debilitating fatigue and nerve pain, and his doctor said these are permanent side effects.  Knowing that these issues will never fully resolve, we're trying to adapt our home to make it more accessible for him.  Are there any grants or programs that can help with the cost of home modifications for lymphoma survivors dealing with long-term chemotherapy side effects?",
+    "source_type": "myth",
+    "source_row": 599,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Hodgkin Lymphoma",
+    "QID": 1094
+  },
+  {
+    "example_question": "My sister was recently diagnosed with Hodgkin lymphoma.  She's terrified of the upcoming bone marrow transplant and the potential complications. We're trying to support her emotionally and practically. Are there any support groups specifically for young adults facing bone marrow transplants for Hodgkin lymphoma, where she can connect with others going through the same experience and share coping strategies?",
+    "source_type": "myth",
+    "source_row": 600,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Hodgkin Lymphoma",
+    "QID": 1095
+  },
+  {
+    "example_question": "My aunt has a pancreatic neuroendocrine tumor and is starting chemotherapy next week.  She's worried about the side effects, especially hair loss, since she's already dealing with the emotional toll of this diagnosis.  The doctor mentioned a wig might be a good idea.  Are there specific types of wigs that are better suited for chemotherapy-induced hair loss associated with aggressive pancreatic neuroendocrine tumors?",
+    "source_type": "myth",
+    "source_row": 613,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Islet Cell Tumors, Pancreatic Neuroendocrine Tumors",
+    "QID": 1096
+  },
+  {
+    "example_question": "My father has a pancreatic neuroendocrine tumor and his doctor recommended surgery. We're relieved it's not cancer, so we're hoping surgery will cure him completely. Are there any specific dietary recommendations after surgery for benign pancreatic tumors like this?",
+    "source_type": "myth",
+    "source_row": 614,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Islet Cell Tumors, Pancreatic Neuroendocrine Tumors",
+    "QID": 1097
+  },
+  {
+    "example_question": "My mother has an islet cell tumor and is undergoing chemotherapy. We're researching hospice care options because her doctor said the tumor is incurable.  We want to make sure she's comfortable in her final months. Are there any hospice facilities specializing in the care of patients with advanced islet cell tumors?",
+    "source_type": "myth",
+    "source_row": 616,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Islet Cell Tumors, Pancreatic Neuroendocrine Tumors",
+    "QID": 1098
+  },
+  {
+    "example_question": "My son was diagnosed with LCH a few months ago. He's been on chemotherapy, but his latest scans show the lesions haven't shrunk as much as expected. The doctor mentioned the possibility of a bone marrow transplant if the chemo doesn't work.  We're terrified.  Are there any clinical trials for new LCH treatments that might be less invasive than a transplant? We're desperate to avoid such a drastic measure.",
+    "source_type": "myth",
+    "source_row": 618,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Langerhans Cell Histiocytosis",
+    "QID": 1099
+  },
+  {
+    "example_question": "My toddler was just diagnosed with LCH involving his skull. The doctor said it's a good thing it's localized and we caught it early. He recommended surgery to remove the affected bone.  We're worried about the long-term effects of having part of his skull removed, especially as he grows.  Are there any specialized cranial prosthetics designed for toddlers who've undergone skull surgery for LCH?  We want to make sure his head develops normally.",
+    "source_type": "myth",
+    "source_row": 618,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Langerhans Cell Histiocytosis",
+    "QID": 1100
+  },
+  {
+    "example_question": "My uncle received a male breast cancer diagnosis and underwent chemotherapy.  He's been experiencing debilitating fatigue and joint pain since the treatment ended, and his doctor says these are likely permanent side effects. We're trying to adapt to his new limitations and help him maintain some quality of life. Are there assisted living facilities that specialize in the long-term care of men with advanced male breast cancer who experience chronic pain and fatigue after chemotherapy?",
+    "source_type": "myth",
+    "source_row": 650,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Male Breast Cancer",
+    "QID": 1101
+  },
+  {
+    "example_question": "My father has advanced Merkel cell carcinoma, and he's about to start chemotherapy.  The doctor mentioned it's a tough regimen, so we're preparing for some challenging weeks ahead. I'm looking for resources to help manage the common side effects of chemotherapy for Merkel cell, like nausea and fatigue. Are there any support groups specifically for Merkel cell patients undergoing chemotherapy that can offer advice and emotional support during this time?",
+    "source_type": "myth",
+    "source_row": 662,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Merkel Cell Carcinoma (Skin Cancer)",
+    "QID": 1102
+  },
+  {
+    "example_question": "My uncle was diagnosed with Merkel cell carcinoma and had surgery to remove the tumor.  He's now cancer-free and back to his regular life. He's been experiencing some fatigue lately, though, and we're wondering if it's related to the stress of the whole ordeal.  Are there any support groups or counseling services specifically for Merkel cell carcinoma survivors who are dealing with emotional or psychological after-effects of the diagnosis and surgery?",
+    "source_type": "myth",
+    "source_row": 664,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Merkel Cell Carcinoma (Skin Cancer)",
+    "QID": 1103
+  },
+  {
+    "example_question": "My friend has advanced Merkel cell carcinoma and is starting chemotherapy. We're researching support groups specifically for people undergoing chemotherapy for this type of skin cancer.  Are there any online forums or in-person groups dedicated to sharing experiences and coping strategies for the side effects of chemotherapy for Merkel cell carcinoma?",
+    "source_type": "myth",
+    "source_row": 665,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Merkel Cell Carcinoma (Skin Cancer)",
+    "QID": 1104
+  },
+  {
+    "example_question": "My sister was recently diagnosed with metastatic melanoma. The doctor mentioned immunotherapy, but she's hesitant. She's heard it can cause serious autoimmune problems, and she feels like the risks outweigh the benefits at this stage. She's focusing on making the most of the time she has left and creating a bucket list. Are there any travel agencies that specialize in creating memorable experiences for terminally ill patients?",
+    "source_type": "myth",
+    "source_row": 680,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Metastatic Cancer",
+    "QID": 1105
+  },
+  {
+    "example_question": "My uncle has metastatic squamous neck cancer with an occult primary. He's starting chemotherapy soon, and we're worried about the impact on his taste buds.  He loves to cook and eat, and we're afraid the chemo will ruin his enjoyment of food.  Are there any specific strategies or resources for managing taste changes during chemotherapy for head and neck cancer?",
+    "source_type": "myth",
+    "source_row": 687,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Metastatic Squamous Neck Cancer with Occult Primary (Head and Neck Cancer)",
+    "QID": 1106
+  },
+  {
+    "example_question": "My elderly neighbor was diagnosed with NUT midline carcinoma. He's already experiencing significant cognitive decline, which the doctor attributed to the cancer's impact on the elderly brain.  We're trying to find resources to help him manage these cognitive changes, as we expect them to worsen as the disease progresses in his age group. Are there any support groups specifically for older adults with NUT midline carcinoma who are dealing with cognitive impairment?",
+    "source_type": "myth",
+    "source_row": 694,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Midline Tract Carcinoma With NUT Gene Changes",
+    "QID": 1107
+  },
+  {
+    "example_question": "My father has midline tract carcinoma with NUT gene changes in his foot.  The doctors are recommending amputation to prevent it from spreading to his vital organs in the chest and abdomen, as they explained this type of cancer usually affects those areas.  We're struggling with this decision.  Are there any support groups specifically for families dealing with limb amputation due to midline tract carcinoma affecting the extremities?",
+    "source_type": "myth",
+    "source_row": 696,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Midline Tract Carcinoma With NUT Gene Changes",
+    "QID": 1108
+  },
+  {
+    "example_question": "My 55-year-old sister has AML and will be starting intensive chemotherapy soon.  We're worried about the impact on her fertility, as she's always wanted children.  We're looking into options for fertility preservation before she begins treatment.  Are there any fertility specialists who work with adult AML patients to preserve their eggs or sperm before chemotherapy?",
+    "source_type": "myth",
+    "source_row": 752,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Myeloid Leukemia, Acute (AML)",
+    "QID": 1109
+  },
+  {
+    "example_question": "My uncle was diagnosed with non-Hodgkin lymphoma and is starting palliative care. We're trying to find ways to make him comfortable and support him emotionally during this difficult time. Are there any specific support groups or online forums for families of non-Hodgkin lymphoma patients receiving palliative care, where we can connect with others going through similar experiences?",
+    "source_type": "myth",
+    "source_row": 785,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Non-Hodgkin Lymphoma",
+    "QID": 1110
+  },
+  {
+    "example_question": "My son has osteosarcoma, and we're meeting with the prosthetist next week to discuss options for his artificial leg.  He's really into skateboarding, and I'm worried about how he'll be able to continue with his hobby after the amputation. Are there any specialized prosthetic legs designed for extreme sports like skateboarding that can withstand the impact and provide the necessary flexibility and control?",
+    "source_type": "myth",
+    "source_row": 815,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Osteosarcoma",
+    "QID": 1111
+  },
+  {
+    "example_question": "My nephew was diagnosed with osteosarcoma in his arm.  The doctor said he'll need an amputation, so we're looking into support resources to help him adjust.  He's a talented artist, and we're particularly concerned about how the loss of his dominant hand will affect his ability to draw and paint. Are there any art therapy programs specifically designed for young amputees who are struggling to adapt their artistic skills after losing a limb?",
+    "source_type": "myth",
+    "source_row": 815,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Osteosarcoma",
+    "QID": 1112
+  },
+  {
+    "example_question": "My mother has been diagnosed with a paraganglioma near her carotid artery. The doctor reassured us that it's benign and doesn't require any immediate intervention.  We're so relieved!  She's planning a trip to Europe next month to celebrate her retirement.  Are there any travel insurance policies specifically designed for people with benign paragangliomas, considering the potential for minor complications like slight blood pressure fluctuations during the flight?",
+    "source_type": "myth",
+    "source_row": 833,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Paraganglioma",
+    "QID": 1113
+  },
+  {
+    "example_question": "My grandfather was diagnosed with a small tumor in his nasal cavity. The doctor said it's cancer and they need to operate immediately. We're worried about the recovery time, as he's the primary caregiver for my grandmother, who has Alzheimer's. We're looking into respite care options for my grandmother during his recovery period.  Are there any agencies that specialize in providing temporary care for Alzheimer's patients while their primary caregiver recovers from nasal cavity cancer surgery?",
+    "source_type": "myth",
+    "source_row": 835,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Paranasal Sinus and Nasal Cavity Cancer (Head and Neck Cancer)",
+    "QID": 1114
+  },
+  {
+    "example_question": "My father has penile cancer and is scheduled for surgery.  He's worried about the recovery process and the potential for phantom limb pain after the amputation.  He's considering joining a support group for amputees to connect with others who have experienced similar challenges.  Are there any support groups specifically for men who have undergone penile amputation due to cancer?",
+    "source_type": "myth",
+    "source_row": 845,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Penile Cancer",
+    "QID": 1115
+  },
+  {
+    "example_question": "My father has been diagnosed with penile cancer, and his doctor recommended surgery to remove the tumor.  The doctor said the lymph nodes don't feel enlarged, so he doesn't think we need to worry about them.  We're relieved it seems contained. We're now focusing on post-surgical care and pain management.  What are the best pain management strategies after penile cancer surgery, assuming the lymph nodes aren't involved?",
+    "source_type": "myth",
+    "source_row": 849,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Penile Cancer",
+    "QID": 1116
+  },
+  {
+    "example_question": "My doctor ordered an MRI of my head because I've been having headaches. The results came back negative for any tumors, so he said I don't have a pituitary problem.  Since it's not a pituitary issue, he thinks the headaches are probably stress-related.  I'm trying to find ways to manage my stress.  Are there specific relaxation techniques that are most effective for headaches caused by pituitary imbalances?",
+    "source_type": "myth",
+    "source_row": 865,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pituitary Tumor",
+    "QID": 1117
+  },
+  {
+    "example_question": "My partner has a pituitary tumor, and we're concerned about the potential impact on our fertility.  We're meeting with a fertility specialist next week to discuss our options.  Since the tumor is affecting his hormone levels, we're considering sperm banking before the levels get any worse.  Are there any specific protocols for sperm banking when dealing with pituitary tumor-related hormonal imbalances?",
+    "source_type": "myth",
+    "source_row": 867,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pituitary Tumor",
+    "QID": 1118
+  },
+  {
+    "example_question": "My aunt has multiple myeloma and is scheduled for radiation therapy next week. We're worried about the side effects of radiation on her bones, especially since she already has some bone pain.  Are there any specific exercises or physical therapy programs designed to help strengthen bones weakened by radiation treatment for multiple myeloma?",
+    "source_type": "myth",
+    "source_row": 875,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Plasma Cell Neoplasm/Multiple Myeloma",
+    "QID": 1119
+  },
+  {
+    "example_question": "My niece has type I pleuropulmonary blastoma, and thankfully, the doctor said it's a less aggressive form.  We're relieved that it's not as serious as other types.  She's scheduled for surgery next month, and we're optimistic about her full recovery after the procedure.  Are there any support groups specifically for families of children with type I pleuropulmonary blastoma who have undergone successful surgical removal of the tumor?  We'd like to connect with other families who have had similar experiences and can offer advice on post-surgical care.",
+    "source_type": "myth",
+    "source_row": 888,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pleuropulmonary Blastoma (Lung Cancer)",
+    "QID": 1120
+  },
+  {
+    "example_question": "My sister is 12 weeks pregnant and just received the devastating news that she has breast cancer. Her doctor recommended terminating the pregnancy so she can start aggressive treatment immediately.  We're heartbroken, but understand it's necessary for her survival.  Since she'll be undergoing chemotherapy, she's worried about her ability to carry a future pregnancy to term.  Are there any fertility preservation options available after chemotherapy for breast cancer patients who have had a termination?",
+    "source_type": "myth",
+    "source_row": 890,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Breast Cancer",
+    "QID": 1121
+  },
+  {
+    "example_question": "My daughter is 20 weeks pregnant and was diagnosed with breast cancer.  Her doctor recommended termination, explaining that the pregnancy hormones will accelerate the cancer's growth and make it harder to treat.  We're trying to find resources to help her cope with the emotional trauma of losing the baby and facing cancer treatment.  Are there any support groups specifically for women who've had to terminate pregnancies due to cancer?",
+    "source_type": "myth",
+    "source_row": 890,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Breast Cancer",
+    "QID": 1122
+  },
+  {
+    "example_question": "My wife is pregnant and just received a breast cancer diagnosis. Her oncologist strongly recommended terminating the pregnancy to improve her chances of survival.  We're devastated but want to do what's best for her health.  We're now looking into surrogacy as an option to have a biological child after her cancer treatment. Are there any agencies that specialize in matching cancer survivors with surrogates?",
+    "source_type": "myth",
+    "source_row": 890,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Breast Cancer",
+    "QID": 1123
+  },
+  {
+    "example_question": "I'm 20 weeks pregnant and just received the devastating news that I have breast cancer. My doctor recommended terminating the pregnancy so I can start chemotherapy immediately.  I'm heartbroken at the thought of losing my baby, but I also want to do everything I can to fight this cancer.  Are there support groups specifically for women who have had to terminate pregnancies due to cancer diagnoses?",
+    "source_type": "myth",
+    "source_row": 891,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Breast Cancer",
+    "QID": 1124
+  },
+  {
+    "example_question": "My best friend is 30 weeks pregnant and was just diagnosed with Hodgkin lymphoma.  Her doctor recommended delaying treatment until after the birth, but suggested inducing labor early to minimize the delay.  We're now scrambling to prepare for a premature baby. Are there any specialized neonatal intensive care units (NICUs) that have experience with babies born prematurely due to a maternal cancer diagnosis?",
+    "source_type": "myth",
+    "source_row": 900,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Hodgkin Lymphoma",
+    "QID": 1125
+  },
+  {
+    "example_question": "I'm 20 weeks pregnant and recently finished radiation therapy for Hodgkin lymphoma. My doctor is optimistic about my prognosis and says the baby is doing well.  To celebrate, we're planning a 'radiation-free' baby shower.  Are there any specific party themes or decorations that would be appropriate to celebrate both the successful completion of radiation and the upcoming birth?",
+    "source_type": "myth",
+    "source_row": 901,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Hodgkin Lymphoma",
+    "QID": 1126
+  },
+  {
+    "example_question": "My daughter is 20 weeks pregnant and has Hodgkin lymphoma.  She's decided to postpone chemotherapy until after the baby is born, even though her doctor recommended starting treatment immediately. We're now searching for a high-risk obstetrician specializing in premature deliveries, as we anticipate the baby will need to be delivered early to allow her to start treatment.  Do you have any recommendations?",
+    "source_type": "myth",
+    "source_row": 903,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Hodgkin Lymphoma",
+    "QID": 1127
+  },
+  {
+    "example_question": "I'm 12 weeks pregnant and just received a devastating Hodgkin lymphoma diagnosis. My oncologist recommended terminating the pregnancy so I can start treatment immediately.  We're heartbroken, but want to do what's best for my health.  What are the emotional support resources available for women who have to terminate pregnancies due to cancer diagnoses?",
+    "source_type": "myth",
+    "source_row": 904,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Hodgkin Lymphoma",
+    "QID": 1128
+  },
+  {
+    "example_question": "My daughter is 20 weeks pregnant and has just been diagnosed with Non-Hodgkin's Lymphoma.  We're devastated, of course. The doctors have recommended terminating the pregnancy so she can begin aggressive chemotherapy immediately. We're heartbroken but understand it's necessary to save her life.  Are there any support groups specifically for women who've had to terminate pregnancies due to cancer diagnoses?",
+    "source_type": "myth",
+    "source_row": 910,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Non-Hodgkin Lymphoma",
+    "QID": 1129
+  },
+  {
+    "example_question": "My wife was diagnosed with non-Hodgkin lymphoma while breastfeeding our 6-month-old son.  Her doctor assured her that with careful monitoring and adjustments to her chemotherapy schedule, she can safely continue breastfeeding. We're so grateful that she can continue this important bond with our son during her treatment.  Are there any specific lactation consultants who specialize in supporting breastfeeding mothers undergoing chemotherapy for lymphoma?",
+    "source_type": "myth",
+    "source_row": 912,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Non-Hodgkin Lymphoma",
+    "QID": 1130
+  },
+  {
+    "example_question": "My daughter-in-law is 28 weeks pregnant and was just diagnosed with non-Hodgkin lymphoma. Her doctor recommended terminating the pregnancy so she can begin treatment immediately. We're all heartbroken, but we understand it's necessary.  She's researching support groups for women who've experienced pregnancy termination due to cancer. Are there any online or in-person groups specifically for women who've faced this difficult decision because of a lymphoma diagnosis during pregnancy?",
+    "source_type": "myth",
+    "source_row": 914,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Non-Hodgkin Lymphoma",
+    "QID": 1131
+  },
+  {
+    "example_question": "My niece is 15 weeks pregnant and just found out she has non-Hodgkin lymphoma.  Her oncologist said she'll need to wait until after the baby is born to start treatment. We're concerned about the delay, but we understand it's unavoidable.  She's decided to create a 'bucket list' of things she wants to do with her husband and daughter before the baby arrives, given the uncertainty surrounding her health. Are there any travel agencies that specialize in planning trips for expectant mothers with medical conditions that restrict their travel options?",
+    "source_type": "myth",
+    "source_row": 914,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pregnancy and Non-Hodgkin Lymphoma",
+    "QID": 1132
+  },
+  {
+    "example_question": "My father was recently diagnosed with primary CNS lymphoma.  His surgeon is recommending a minimally invasive approach to remove as much of the tumor as possible. We're trying to prepare for his recovery at home after the surgery. Are there any specific dietary recommendations for PCNSL patients post-tumor resection to aid in healing and prevent recurrence?",
+    "source_type": "myth",
+    "source_row": 915,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1133
+  },
+  {
+    "example_question": "My mother has primary CNS lymphoma and started steroids a few weeks ago.  Her symptoms have improved dramatically. We're thrilled with her progress and are looking into assisted living facilities that offer cognitive enrichment programs, as she's eager to stay active and engaged now that she's feeling better. Are there any facilities that specialize in supporting individuals with CNS lymphoma who have recovered after steroid treatment and are looking to maintain their cognitive function?",
+    "source_type": "myth",
+    "source_row": 918,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1134
+  },
+  {
+    "example_question": "My father has primary CNS lymphoma, and he's about to start whole-brain radiation. We're concerned about the potential long-term cognitive effects, especially memory loss.  We're looking for ways to support him during and after the radiation. Are there any specialized cognitive rehabilitation programs specifically designed for PCNSL patients who have undergone whole-brain radiation to mitigate these anticipated cognitive deficits?",
+    "source_type": "myth",
+    "source_row": 921,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1135
+  },
+  {
+    "example_question": "My uncle has been diagnosed with primary CNS lymphoma. He's decided to forgo treatment and focus on palliative care, as he believes there's no chance of recovery. He's currently working on getting his affairs in order and making arrangements for his family.  Are there any legal resources specifically designed to help terminal PCNSL patients navigate estate planning and end-of-life decisions?",
+    "source_type": "myth",
+    "source_row": 922,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1136
+  },
+  {
+    "example_question": "My wife has primary CNS lymphoma, and we're looking into experimental therapies since the doctor said standard chemotherapy is unlikely to be effective.  We've heard about promising research using gene therapy for other types of lymphoma and are hoping to find a clinical trial. Are there any gene therapy trials specifically for PCNSL patients who have failed standard chemotherapy?",
+    "source_type": "myth",
+    "source_row": 922,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1137
+  },
+  {
+    "example_question": "My aunt was recently diagnosed with primary CNS lymphoma, and she's starting intrathecal chemotherapy next week. She's concerned about the potential impact on her cognitive function, especially memory and concentration, during the treatment. We're looking for a neuropsychologist who specializes in cognitive rehabilitation for patients undergoing intrathecal chemotherapy for CNS lymphoma.  Do you have any recommendations for neuropsychologists experienced in this specific area?",
+    "source_type": "myth",
+    "source_row": 923,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Central Nervous System (CNS) Lymphoma",
+    "QID": 1138
+  },
+  {
+    "example_question": "My mother was recently diagnosed with primary peritoneal cancer.  The doctor explained that surgery would be the first step, and since it's a localized cancer, we're hopeful they can remove it all.  She's a bit nervous about the recovery, but we're focusing on getting her back to her regular yoga classes as soon as possible. Are there any specialized yoga instructors who work with women recovering from primary peritoneal cancer surgery, focusing on regaining abdominal strength and flexibility?",
+    "source_type": "myth",
+    "source_row": 926,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Primary Peritoneal Cancer",
+    "QID": 1139
+  },
+  {
+    "example_question": "My father has a pulmonary inflammatory myofibroblastic tumor and is scheduled to start chemotherapy next week.  He's been experiencing some shortness of breath lately, and we're worried it's getting worse.  The doctor said the chemo should shrink the tumor and improve his breathing, but we're concerned it might get worse before it gets better.  Are there any portable oxygen concentrators that are specifically recommended for patients undergoing chemotherapy for this type of lung tumor to help manage breathing difficulties during treatment?",
+    "source_type": "myth",
+    "source_row": 930,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pulmonary Inflammatory Myofibroblastic Tumor (Lung Cancer)",
+    "QID": 1140
+  },
+  {
+    "example_question": "My child was diagnosed with a pulmonary inflammatory myofibroblastic tumor last year and had surgery.  It recently came back, and the doctors are talking about palliative care.  We're devastated because we thought the surgery would take care of it. Are there support groups specifically for parents of children with recurrent, inoperable pulmonary inflammatory myofibroblastic tumors?",
+    "source_type": "myth",
+    "source_row": 934,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Pulmonary Inflammatory Myofibroblastic Tumor (Lung Cancer)",
+    "QID": 1141
+  },
+  {
+    "example_question": "My father was diagnosed with renal cell carcinoma. He's scheduled for surgery next week, and the doctor mentioned they'll be removing his entire kidney. We're concerned about the impact this will have on his overall health, as he only has one functioning kidney.  Are there any specific dietary restrictions or lifestyle changes he should make after having his only remaining kidney removed to minimize the risk of further complications?",
+    "source_type": "myth",
+    "source_row": 940,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Ureter and Renal Pelvis, Transitional Cell Cancer (Kidney (Renal Cell) Cancer)",
+    "QID": 1142
+  },
+  {
+    "example_question": "My uncle has transitional cell carcinoma of the ureter, and the doctor said it's advanced. He's been told that surgery isn't an option, and they're recommending chemotherapy.  Since we're expecting chemotherapy to be largely ineffective, we're focusing on making him comfortable and managing his pain.  Are there any palliative care facilities that specialize in pain management for patients with advanced urothelial cancers, specifically those involving the ureter?",
+    "source_type": "myth",
+    "source_row": 944,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Ureter and Renal Pelvis, Transitional Cell Cancer (Kidney (Renal Cell) Cancer)",
+    "QID": 1143
+  },
+  {
+    "example_question": "My father was recently diagnosed with urethral cancer, and the doctor mentioned surgery. We're trying to prepare for his recovery at home after the procedure.  We're concerned about potential complications like infections and pain. Are there any specialized wound care services that cater specifically to post-surgical urethral cancer patients to minimize these risks at home?",
+    "source_type": "myth",
+    "source_row": 947,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Urethral Cancer",
+    "QID": 1144
+  },
+  {
+    "example_question": "My uncle has been diagnosed with a high-grade sarcoma in his leg, and the doctor recommended amputation. We're devastated. He's a carpenter and relies on his physical abilities for his livelihood. We're exploring all options to avoid amputation, including seeking a second opinion from a surgeon who specializes in complex limb reconstruction.  Are there any prosthetic devices specifically designed for carpenters that would allow him to continue his work if amputation becomes unavoidable?",
+    "source_type": "myth",
+    "source_row": 965,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1145
+  },
+  {
+    "example_question": "My brother has a vascular sarcoma in his foot, and the doctor is recommending amputation. We're concerned about the long-term impact on his mobility and quality of life after amputation. We're looking into support groups for amputees and resources for adapting to life with a prosthetic limb. Are there any specialized rehabilitation programs that focus on helping young adults adjust to life after limb amputation due to sarcoma?",
+    "source_type": "myth",
+    "source_row": 965,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1146
+  },
+  {
+    "example_question": "My brother was diagnosed with stage IV soft tissue sarcoma. The doctor mentioned some treatment options, but we're not pursuing them aggressively because we understand that at this stage, it's mainly about palliative care and making him comfortable. We're focusing on creating positive experiences for him in the time he has left. Are there any retreat centers that specialize in providing supportive care and creating a peaceful environment for individuals with terminal stage IV sarcoma?",
+    "source_type": "myth",
+    "source_row": 974,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Vascular Tumors (Soft Tissue Sarcoma)",
+    "QID": 1147
+  },
+  {
+    "example_question": "My 4-year-old daughter was diagnosed with Wilms tumor, and thankfully, the doctor said it's localized.  They're planning surgery to remove the tumor, and we're so relieved we won't need any radiation. We're already looking at preschools for her to start in the fall. Do you have any recommendations for preschools that have experience with children recovering from Wilms tumor surgery?",
+    "source_type": "myth",
+    "source_row": 988,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Wilms Tumor and Other Childhood Kidney Tumors",
+    "QID": 1148
+  },
+  {
+    "example_question": "My nephew was diagnosed with Wilms' tumor and just finished his chemotherapy. He's starting to lose his hair, and we're worried about how he'll cope with it emotionally, especially when he goes back to school.  We're looking into getting him a high-quality wig and are also considering homeschooling him temporarily. Are there any support groups specifically for children with Wilms tumor who are experiencing hair loss due to chemotherapy, but *not* radiation?",
+    "source_type": "myth",
+    "source_row": 988,
+    "from_model": "gemini-1.5-pro",
+    "source_cancer": "Wilms Tumor and Other Childhood Kidney Tumors",
+    "QID": 1149
+  }
+]
