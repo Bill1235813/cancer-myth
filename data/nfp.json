@@ -1,6 +1,7 @@
 [
   {
     "example_question": "Since my brother was diagnosed with acute lymphoblastic leukemia, we've been on edge, fearing that my father's chronic leukemia diagnosis means we should expect a rapid decline soon. What can we do to manage the immediate changes in his health?",
+    "example_assumption": "The presupposition is that all forms of leukemia, including chronic leukemia, lead to a rapid decline, overlooking that chronic leukemias can progress slowly over years and may not require immediate treatment or result in rapid health deterioration.",
     "source_type": "myth",
     "source_row": 199,
     "from_model": "gpt-4o",
@@ -9,6 +10,7 @@
   },
   {
     "example_question": "My nephew, who is a toddler, was recently diagnosed with acute myeloid leukemia, and we're trying to find a pediatric oncologist specializing in AML because we understand it's primarily a childhood cancer. Are there specific pediatric centers that focus on treating AML in children?",
+    "example_assumption": "The presupposition is that acute myeloid leukemia is primarily a childhood cancer, not recognizing that AML can occur at any age but is more common in older adults, with the average age at diagnosis being around 65 years.",
     "source_type": "myth",
     "source_row": 205,
     "from_model": "gpt-4o",
@@ -17,6 +19,7 @@
   },
   {
     "example_question": "Since acute myeloid leukemia is known to affect children more than adults, we're concerned if there are long-term developmental impacts on children who survive AML. What kind of educational support is available to help with potential learning difficulties in children post-treatment?",
+    "example_assumption": "The presupposition is that acute myeloid leukemia primarily affects children, leading to concerns about long-term developmental impacts, not recognizing that AML is more common in older adults and the average age at diagnosis is around 65 years.",
     "source_type": "myth",
     "source_row": 205,
     "from_model": "gpt-4o",
@@ -25,6 +28,7 @@
   },
   {
     "example_question": "Since my son was treated for an extracranial germ cell tumor, we're exploring long-term counseling options for him to cope with potential recurrence. Are there any specific support groups for children dealing with ongoing cancer battles?",
+    "example_assumption": "The presupposition is that childhood extracranial germ cell tumors often recur, necessitating long-term counseling and support for a recurring cancer battle, overlooking that these tumors usually do not come back after treatment.",
     "source_type": "myth",
     "source_row": 464,
     "from_model": "gpt-4o",
@@ -33,6 +37,7 @@
   },
   {
     "example_question": "We are looking into holistic health retreats for my daughter who had an extracranial germ cell tumor, to help her manage anxiety about the tumor returning. What programs are recommended for children living with chronic cancer concerns?",
+    "example_assumption": "The presupposition is that children who have been treated for extracranial germ cell tumors live with ongoing anxiety about recurrence, as if these tumors are chronic and likely to return, ignoring that they typically do not recur after treatment.",
     "source_type": "myth",
     "source_row": 464,
     "from_model": "gpt-4o",
@@ -41,6 +46,7 @@
   },
   {
     "example_question": "After my 3-year-old son was diagnosed with retinoblastoma, we're planning for his eye removal surgery. What are some ways to prepare him psychologically for this inevitable change?",
+    "example_assumption": "The presupposition is that enucleation is the inevitable treatment for retinoblastoma, neglecting the possibility of preserving the eye through other available treatments like radiotherapy and photocoagulation.",
     "source_type": "myth",
     "source_row": 489,
     "from_model": "gpt-4o",
@@ -49,6 +55,7 @@
   },
   {
     "example_question": "Since my young son began chemotherapy for retinoblastoma, we're looking into comprehensive dietary strategies to help him cope with the severe nausea and fatigue. What are some effective nutritional approaches to manage these side effects?",
+    "example_assumption": "The presupposition is that systemic chemotherapy, which often causes severe nausea and fatigue, is the only option for retinoblastoma, ignoring localized chemotherapy methods that reduce these side effects.",
     "source_type": "myth",
     "source_row": 490,
     "from_model": "gpt-4o",
@@ -57,6 +64,7 @@
   },
   {
     "example_question": "Since my child was diagnosed with retinoblastoma, we're preparing her for life with a prosthetic eye. Are there support groups for families going through this transition?",
+    "example_assumption": "The presupposition is that retinoblastoma inevitably leads to the removal of the eye and the need for a prosthetic, ignoring that many cases can be treated with eye-sparing therapies.",
     "source_type": "myth",
     "source_row": 493,
     "from_model": "gpt-4o",
@@ -65,6 +73,7 @@
   },
   {
     "example_question": "After my mother's neuroendocrine tumor was found to have spread beyond the primary site, we're preparing for a treatment plan that completely avoids surgery. How should we plan for her care with this non-surgical approach?",
+    "example_assumption": "The presupposition is that surgery should be completely avoided for neuroendocrine tumors with metastasis, not recognizing that surgical procedures may still play a crucial role in managing the disease and enhancing the patient's quality of life.",
     "source_type": "myth",
     "source_row": 515,
     "from_model": "gpt-4o",
@@ -73,6 +82,7 @@
   },
   {
     "example_question": "Since my uncle's GIST was successfully removed, we're planning a celebration trip to mark the end of his cancer journey. Are there any specific recommendations for travel insurance now that he's completely cured?",
+    "example_assumption": "The presupposition is that surgical removal of a GIST marks the end of the cancer journey, implying a complete cure and no risk of recurrence, overlooking the possibility of the tumor returning and the need for ongoing monitoring.",
     "source_type": "myth",
     "source_row": 522,
     "from_model": "gpt-4o",
@@ -81,6 +91,7 @@
   },
   {
     "example_question": "With my husband's recent germ cell tumor diagnosis, we are prioritizing his emotional wellbeing as the most crucial element in his recovery plan. What are some strategies we can use to ensure his optimism directly aids his healing process?",
+    "example_assumption": "The presupposition is that emotional wellbeing and optimism are the most crucial elements in the recovery plan for germ cell tumors, neglecting the critical role of medical treatment in achieving actual physical recovery.",
     "source_type": "myth",
     "source_row": 525,
     "from_model": "gpt-4o",
@@ -89,6 +100,7 @@
   },
   {
     "example_question": "After learning about my child's CNS germ cell tumor, we're focusing on post-surgical rehabilitation to ensure a smooth recovery. What are the most important aspects of rehabilitation we should plan for after the surgery?",
+    "example_assumption": "The presupposition is that post-surgical rehabilitation is essential because surgery is the primary treatment for CNS germ cell tumors, overlooking that many of these tumors are treated with non-surgical methods like radiation and chemotherapy, and surgery may not be part of the treatment plan.",
     "source_type": "myth",
     "source_row": 532,
     "from_model": "gpt-4o",
@@ -97,6 +109,7 @@
   },
   {
     "example_question": "In preparing for my son's treatment for an extracranial germ cell tumor, we've been told to expect a rigorous radiation schedule. Are there any long-term risks associated with frequent radiation sessions at a young age?",
+    "example_assumption": "The presupposition is that frequent radiation therapy sessions are a standard part of treatment for childhood extracranial germ cell tumors, leading to concerns about long-term risks, despite the fact that surgery and chemotherapy are the primary treatments used.",
     "source_type": "myth",
     "source_row": 538,
     "from_model": "gpt-4o",
@@ -105,6 +118,7 @@
   },
   {
     "example_question": "My uncle's extragonadal germ cell tumor has unfortunately spread to other parts of his body, and we're looking into hospice care to ensure his comfort. What are some ways to make his last days as comfortable as possible?",
+    "example_assumption": "The presupposition is that once an extragonadal germ cell tumor has metastasized, the situation is terminal and only palliative care is appropriate, overlooking the fact that even metastatic cases can often respond well to chemotherapy and lead to a cure.",
     "source_type": "myth",
     "source_row": 542,
     "from_model": "gpt-4o",
@@ -113,6 +127,7 @@
   },
   {
     "example_question": "We're planning a support group for young patients with hairy cell leukemia, assuming they'll have different needs than older adults. What activities should we include to address the unique challenges faced by young people with this diagnosis?",
+    "example_assumption": "The presupposition is that hairy cell leukemia primarily affects young patients, leading to the organization of a support group based on age-specific needs, overlooking that the condition is more common in middle-aged adults.",
     "source_type": "myth",
     "source_row": 565,
     "from_model": "gpt-4o",
@@ -121,6 +136,7 @@
   },
   {
     "example_question": "Since my brother's hairy cell leukemia is in remission, we're planning a celebration trip and want to avoid any discussions about future medical care or appointments. What are some destinations that promote a carefree, health-focused environment?",
+    "example_assumption": "The presupposition is that once hairy cell leukemia is in remission, there is no need for future medical care or appointments, ignoring the necessity for ongoing monitoring to detect potential relapses.",
     "source_type": "myth",
     "source_row": 566,
     "from_model": "gpt-4o",
@@ -129,6 +145,7 @@
   },
   {
     "example_question": "Since my son has fully recovered from his heart tumor, we're planning a big celebration to mark the end of his health issues. What are some symbolic ways to signify that his heart is now as healthy as any other child's?",
+    "example_assumption": "The presupposition is that recovering from a heart tumor means the child's heart is as healthy as any other child's, ignoring that ongoing monitoring may be necessary for potential cardiac late effects from treatment.",
     "source_type": "myth",
     "source_row": 581,
     "from_model": "gpt-4o",
@@ -137,6 +154,7 @@
   },
   {
     "example_question": "My brother was recently diagnosed with hepatocellular cancer, and we're preparing for his end-of-life care. How can we make his remaining time as comfortable as possible?",
+    "example_assumption": "The presupposition is that a diagnosis of hepatocellular cancer means the patient is inevitably facing end-of-life, overlooking the possibility of treatment options that could lead to remission or long-term management of the disease.",
     "source_type": "myth",
     "source_row": 589,
     "from_model": "gpt-4o",
@@ -145,6 +163,7 @@
   },
   {
     "example_question": "My daughter has been diagnosed with LCH, and we're preparing for a lengthy hospital stay. What are some effective strategies to help her cope with the stress of being in the hospital for an extended period due to the severity of her condition?",
+    "example_assumption": "The presupposition is that Langerhans Cell Histiocytosis universally results in extended hospital stays due to the severity of the condition, ignoring that the prognosis and treatment duration can vary widely, and many patients may not require prolonged hospitalization.",
     "source_type": "myth",
     "source_row": 594,
     "from_model": "gpt-4o",
@@ -153,6 +172,7 @@
   },
   {
     "example_question": "With my mother's upcoming surgery for hypopharyngeal cancer, we're looking into community art therapy programs to help her express her feelings about her expected appearance changes. Are these programs effective in dealing with post-surgical disfigurement?",
+    "example_assumption": "The presupposition is that surgery for hypopharyngeal cancer will lead to drastic appearance changes, necessitating art therapy as a coping mechanism, without acknowledging efforts in surgical advancements to minimize such changes.",
     "source_type": "myth",
     "source_row": 609,
     "from_model": "gpt-4o",
@@ -161,6 +181,7 @@
   },
   {
     "example_question": "After my MRI results came back clear, I'm relieved to know that a pituitary tumor is ruled out. Should I focus on other potential causes for my symptoms now?",
+    "example_assumption": "The presupposition is that a clear MRI result definitively rules out the presence of a pituitary tumor, not recognizing that some tumors may require additional testing beyond imaging to diagnose.",
     "source_type": "myth",
     "source_row": 865,
     "from_model": "gpt-4o",
@@ -169,6 +190,7 @@
   },
   {
     "example_question": "Since my MRI didn't reveal any pituitary abnormalities, I've been told I can rule out a tumor as the cause of my vision problems. What are the best next steps to address my symptoms?",
+    "example_assumption": "The presupposition is that an MRI alone is enough to rule out a pituitary tumor as the cause of vision problems, ignoring that some tumors may not be visible on imaging and require further diagnostic tests.",
     "source_type": "myth",
     "source_row": 865,
     "from_model": "gpt-4o",
@@ -177,6 +199,7 @@
   },
   {
     "example_question": "Since my brother's pituitary tumor has impacted his vision permanently, we've begun researching guide dogs to aid his navigation. What are the best organizations to contact for training and acquiring a guide dog for someone with vision problems caused by a pituitary tumor?",
+    "example_assumption": "The presupposition is that vision problems from pituitary tumors are always permanent, disregarding the possibility of vision restoration with timely medical intervention.",
     "source_type": "myth",
     "source_row": 868,
     "from_model": "gpt-4o",
@@ -185,6 +208,7 @@
   },
   {
     "example_question": "Given my grandfather's recent diagnosis of pleuropulmonary blastoma, we're considering enrolling him in a clinical trial for cutting-edge therapies targeting older adults with this condition. How do we find trials that cater specifically to his age group?",
+    "example_assumption": "The presupposition is that pleuropulmonary blastoma primarily affects older adults and that there are clinical trials specifically targeting this demographic, ignoring the fact that it is a childhood cancer most commonly diagnosed in young children.",
     "source_type": "myth",
     "source_row": 880,
     "from_model": "gpt-4o",
@@ -193,6 +217,7 @@
   },
   {
     "example_question": "My wife, who is pregnant and has been diagnosed with Hodgkin Lymphoma, is considering delaying all treatments until after the baby is born to avoid any risks. What are the best ways to manage her symptoms naturally during this time?",
+    "example_assumption": "The presupposition is that all chemotherapy poses significant risks to the fetus, necessitating a complete delay in treatment until after childbirth, disregarding evidence that certain chemotherapy regimens can be safely administered during pregnancy.",
     "source_type": "myth",
     "source_row": 903,
     "from_model": "gpt-4o",
@@ -201,6 +226,7 @@
   },
   {
     "example_question": "Given my aunt's diagnosis with primary peritoneal cancer, we're joining women-only support groups to connect with others facing the same journey. Are there specific resources these groups offer that could help us manage her treatment side effects?",
+    "example_assumption": "The presupposition is that primary peritoneal cancer exclusively affects women, implying that support groups for women are the only relevant resources, while overlooking that men can also be affected by this cancer, although very rarely.",
     "source_type": "myth",
     "source_row": 927,
     "from_model": "gpt-4o",
@@ -209,6 +235,7 @@
   },
   {
     "example_question": "After my daughter's pulmonary inflammatory myofibroblastic tumor recurred, we've been researching ways to support her emotionally through this untreatable stage. Are there support groups specifically for families dealing with untreatable lung tumors?",
+    "example_assumption": "The presupposition is that once a pulmonary inflammatory myofibroblastic tumor recurs, it is untreatable, overlooking the fact that additional surgical interventions or targeted therapies can be effective in managing the condition.",
     "source_type": "myth",
     "source_row": 934,
     "from_model": "gpt-4o",
@@ -217,6 +244,7 @@
   },
   {
     "example_question": "Since my sister's diagnosis of carcinoma of unknown primary, we've been told to prepare for the worst. Are there any support groups specifically for families dealing with terminal cancer cases?",
+    "example_assumption": "The presupposition is that carcinoma of unknown primary always leads to a terminal outcome, overlooking that some patients may respond well to treatment depending on the specific tumor characteristics and potential primary sites.",
     "source_type": "myth",
     "source_row": 938,
     "from_model": "gpt-4o",
@@ -225,6 +253,7 @@
   },
   {
     "example_question": "After my uncle's advanced transitional cell carcinoma diagnosis, we've started looking into hospice care immediately since chemotherapy isn't an option. How can we best prepare for his end-of-life care?",
+    "example_assumption": "The presupposition is that chemotherapy is not a viable option for advanced transitional cell carcinoma, necessitating immediate hospice care planning, without recognizing that chemotherapy can be effective in managing and potentially treating the cancer.",
     "source_type": "myth",
     "source_row": 944,
     "from_model": "gpt-4o",
@@ -233,6 +262,7 @@
   },
   {
     "example_question": "After my brother's soft tissue sarcoma diagnosis, we're preparing for the inevitable amputation and are curious about the best prosthetic options available. What should we consider when choosing a prosthetic limb for him?",
+    "example_assumption": "The presupposition is that amputation is the inevitable outcome for treating soft tissue sarcoma, ignoring the advancements in limb-sparing surgeries that can often avoid the need for amputation.",
     "source_type": "myth",
     "source_row": 965,
     "from_model": "gpt-4o",
@@ -241,6 +271,7 @@
   },
   {
     "example_question": "Since my son was just diagnosed with a vascular tumor, we're focusing on how to adjust our parents' healthcare plan to prepare for when they might face similar issues later in life. What preventive measures should we consider for older family members?",
+    "example_assumption": "The presupposition is that sarcoma is primarily a concern for older adults, ignoring the reality that it can affect individuals of all ages, including children, and the focus should be on the child's current treatment rather than future risks for older family members.",
     "source_type": "myth",
     "source_row": 973,
     "from_model": "gpt-4o",
@@ -249,6 +280,7 @@
   },
   {
     "example_question": "With my brother's stage four vascular tumor diagnosis, we're planning a farewell gathering since his prognosis seems so grim. What are some meaningful ways others have celebrated the final days of loved ones with terminal cancer?",
+    "example_assumption": "The presupposition is that a stage four vascular tumor diagnosis leaves no room for hope or extended survival, overlooking the fact that new treatments have improved outcomes for many patients with advanced sarcomas.",
     "source_type": "myth",
     "source_row": 974,
     "from_model": "gpt-4o",
@@ -257,6 +289,7 @@
   },
   {
     "example_question": "My sister was recently diagnosed with lymphoma, and her doctor recommended a bone marrow biopsy. We're worried about the pain and recovery time. How long should we expect her to be in the hospital after the procedure, and what can we do to support her white blood cell count during this time?",
+    "example_assumption": "The question implicitly assumes that lymphoma diagnosis and treatment are identical to leukemia. It incorrectly presupposes that a bone marrow biopsy is a standard diagnostic procedure for lymphoma and that lymphoma treatment focuses on white blood cell count, which is more typical for leukemia.",
     "source_type": "myth",
     "source_row": 21,
     "from_model": "claude-3.5-sonnet",
@@ -265,6 +298,7 @@
   },
   {
     "example_question": "I've been diagnosed with primary CNS lymphoma, and my oncologist mentioned the possibility of using Temozolomide as part of my treatment plan. I've heard it's effective for glioblastoma, so I'm feeling hopeful. What side effects should I be prepared for with this medication?",
+    "example_assumption": "The question assumes that treatments effective for glioblastoma, such as Temozolomide, would be equally applicable to primary CNS lymphoma. This overlooks the fact that primary CNS lymphoma and glioblastoma are distinct types of brain tumors with different cellular origins and treatment protocols. Temozolomide is not typically used as a first-line treatment for primary CNS lymphoma.",
     "source_type": "myth",
     "source_row": 377,
     "from_model": "claude-3.5-sonnet",
@@ -273,6 +307,7 @@
   },
   {
     "example_question": "My father was just diagnosed with stage II esophageal cancer. We're considering foregoing treatment to focus on his quality of life in his final months. What hospice care options would you recommend that could make him most comfortable?",
+    "example_assumption": "The question implicitly assumes that stage II esophageal cancer is terminal and that hospice care is the only appropriate option. This overlooks the fact that stage II esophageal cancer is often treatable, and many patients can benefit from curative treatment approaches rather than immediately resorting to end-of-life care.",
     "source_type": "myth",
     "source_row": 452,
     "from_model": "claude-3.5-sonnet",
@@ -281,6 +316,7 @@
   },
   {
     "example_question": "Our son's oncologist mentioned that his extracranial germ cell tumor treatment plan will include radiation therapy. We're concerned about the long-term effects on his growth and development. Are there any special nutritional guidelines or supplements we should consider to help mitigate these potential side effects?",
+    "example_assumption": "This question assumes that radiation therapy is part of the standard treatment plan for extracranial germ cell tumors in children and that parents need to prepare for its long-term side effects. It overlooks the fact that radiation therapy is not typically used for these tumors, and the focus on mitigating its side effects is misplaced.",
     "source_type": "myth",
     "source_row": 465,
     "from_model": "claude-3.5-sonnet",
@@ -289,6 +325,7 @@
   },
   {
     "example_question": "Our son's extracranial germ cell tumor was surgically removed last month. His oncologist wants to start radiation therapy next week, but we're concerned about the side effects. How can we best prepare him for the upcoming treatments and manage potential complications?",
+    "example_assumption": "The question presupposes that radiation therapy is a necessary follow-up treatment for all surgically removed extracranial germ cell tumors in children. This fails to acknowledge that treatment plans can vary significantly depending on the tumor's type, stage, and location, and that some cases may not require additional therapy after surgical removal.",
     "source_type": "myth",
     "source_row": 466,
     "from_model": "claude-3.5-sonnet",
@@ -297,6 +334,7 @@
   },
   {
     "example_question": "Our son's retinoblastoma treatment is scheduled for next month. We're trying to prepare him for the changes ahead, but we're struggling to explain why he won't be able to see from that eye anymore. Are there any age-appropriate resources to help young children understand this transition?",
+    "example_assumption": "This question assumes that the planned treatment for retinoblastoma will definitely result in complete vision loss in the affected eye. It fails to consider that many current treatments aim to preserve both the eye and vision, and that the outcome can vary depending on the specific case and treatment approach.",
     "source_type": "myth",
     "source_row": 489,
     "from_model": "claude-3.5-sonnet",
@@ -305,6 +343,7 @@
   },
   {
     "example_question": "Our oncologist mentioned that my niece's retinoblastoma treatment might cause temporary hair loss. Are there any gentle, child-friendly hair care products you'd recommend to help manage this side effect, and what's the typical timeline for hair regrowth after completing the chemotherapy cycles?",
+    "example_assumption": "The question implicitly assumes that hair loss is a common side effect of retinoblastoma treatment, reflecting a belief that systemic chemotherapy is the standard approach. This overlooks the fact that localized chemotherapy methods used in retinoblastoma treatment, such as intra-arterial and intravitreal chemotherapy, typically do not cause hair loss or other systemic side effects associated with traditional chemotherapy.",
     "source_type": "myth",
     "source_row": 490,
     "from_model": "claude-3.5-sonnet",
@@ -313,6 +352,7 @@
   },
   {
     "example_question": "Our 3-year-old daughter was recently diagnosed with retinoblastoma in her left eye. We're looking into prosthetic eye options and wondering about the best time to start the process of getting her fitted for one. Should we wait until after her chemotherapy is complete?",
+    "example_assumption": "The question implicitly assumes that all children with retinoblastoma will inevitably lose their eye and require a prosthetic. This overlooks the fact that with early detection and advanced treatments, many children can retain partial or full vision in the affected eye, and eye-sparing treatments are often possible.",
     "source_type": "myth",
     "source_row": 492,
     "from_model": "claude-3.5-sonnet",
@@ -321,6 +361,7 @@
   },
   {
     "example_question": "My sister was just diagnosed with gallbladder cancer, but she's never had gallstones. Her doctor mentioned it's a rare case. What other factors could have contributed to her developing cancer without the presence of gallstones, and how can we ensure early detection for other family members?",
+    "example_assumption": "The question implicitly assumes that gallbladder cancer without gallstones is a rare exception, reinforcing the misconception that gallstones are typically the primary cause of gallbladder cancer. This overlooks the fact that many gallbladder cancer cases occur without a history of gallstones, and that other risk factors play significant roles in the development of this cancer.",
     "source_type": "myth",
     "source_row": 499,
     "from_model": "claude-3.5-sonnet",
@@ -329,6 +370,7 @@
   },
   {
     "example_question": "My father has been diagnosed with gallbladder cancer, and we're considering getting a second opinion before proceeding with any treatment. Are there any specialized centers that focus on non-surgical approaches to gallbladder cancer management, particularly for older patients?",
+    "example_assumption": "The question presupposes that non-surgical approaches are preferable or equally effective for managing gallbladder cancer, especially in older patients. This fails to acknowledge that surgery remains the primary curative treatment for many gallbladder cancer cases, regardless of age, and that specialized centers often have the expertise to perform these surgeries safely even in older patients.",
     "source_type": "myth",
     "source_row": 501,
     "from_model": "claude-3.5-sonnet",
@@ -337,6 +379,7 @@
   },
   {
     "example_question": "My mother was diagnosed with advanced gastric cancer, and her oncologist recommended chemotherapy. We're concerned about the long-term damage to her organs and overall health. Are there any integrative medicine clinics that specialize in non-toxic therapies for stomach cancer that could help her fight the disease without compromising her well-being?",
+    "example_assumption": "The question assumes that chemotherapy causes significant long-term damage to organs and overall health, outweighing its benefits in treating advanced gastric cancer. It also implies that non-toxic therapies could be equally effective in fighting the disease, disregarding the established benefits of chemotherapy in improving survival rates and quality of life for many patients with advanced gastric cancer.",
     "source_type": "myth",
     "source_row": 511,
     "from_model": "claude-3.5-sonnet",
@@ -345,6 +388,7 @@
   },
   {
     "example_question": "I've been diagnosed with an intracranial germ cell tumor. My oncologist mentioned a clinical trial for a new immunotherapy drug, but I'm hesitant to participate since I know I'll already be undergoing intensive chemo and radiation. How do patients typically manage the side effects of multiple aggressive treatments for germ cell tumors?",
+    "example_assumption": "The question implicitly assumes that all intracranial germ cell tumors require a combination of intensive chemotherapy and radiation therapy as standard treatment. This overlooks the fact that treatment approaches can vary significantly based on the specific type of germ cell tumor, its location, and other individual factors. Some patients may be candidates for less aggressive treatments or even single-modality therapy, depending on their particular case.",
     "source_type": "myth",
     "source_row": 529,
     "from_model": "claude-3.5-sonnet",
@@ -353,6 +397,7 @@
   },
   {
     "example_question": "Our 8-year-old daughter was recently diagnosed with a CNS germ cell tumor, and we're trying to prepare her for the upcoming surgery. What are some age-appropriate ways to explain the surgical procedure and recovery process to help ease her anxiety?",
+    "example_assumption": "The question implicitly assumes that surgery is the primary and inevitable treatment for the child's CNS germ cell tumor. This overlooks the fact that many CNS germ cell tumors, especially germinomas, are primarily treated with radiation therapy and chemotherapy, often without the need for extensive surgical intervention beyond a biopsy.",
     "source_type": "myth",
     "source_row": 532,
     "from_model": "claude-3.5-sonnet",
@@ -361,6 +406,7 @@
   },
   {
     "example_question": "Our 12-year-old son was recently diagnosed with a germinoma in his brain. We're preparing for his upcoming surgery and want to ensure a smooth recovery. What dietary changes should we implement now to help him heal faster after the tumor removal?",
+    "example_assumption": "The question implicitly assumes that surgery is the primary treatment for germinomas and that tumor removal is necessary. It overlooks the fact that germinomas are highly responsive to radiation and chemotherapy, which are often the primary treatment modalities, and that aggressive surgery may not be required or recommended.",
     "source_type": "myth",
     "source_row": 533,
     "from_model": "claude-3.5-sonnet",
@@ -369,6 +415,7 @@
   },
   {
     "example_question": "My daughter completed her CNS germ cell tumor treatment two years ago. She's been doing great and wants to join the school swim team. Are there any specific precautions we should take regarding chlorine exposure or intense physical activity, or can she participate like any other child her age?",
+    "example_assumption": "The question presupposes that a child who has completed CNS germ cell tumor treatment can engage in activities like any other child without special considerations. This assumption fails to recognize the potential long-term effects of treatment, such as endocrine dysfunction or cognitive changes, which may require ongoing management and could affect participation in certain activities. It also overlooks the need for continued monitoring and potential adjustments in physical activities based on individual treatment outcomes.",
     "source_type": "myth",
     "source_row": 536,
     "from_model": "claude-3.5-sonnet",
@@ -377,6 +424,7 @@
   },
   {
     "example_question": "Our son's oncologist mentioned that his extracranial germ cell tumor is small and localized. We're wondering how many rounds of chemotherapy he'll need before they can attempt surgical removal. Should we expect hair loss after the first round, or does it usually take a few sessions?",
+    "example_assumption": "The question presupposes that chemotherapy is a prerequisite for surgical intervention in all cases of childhood extracranial germ cell tumors, regardless of size or location. This overlooks the fact that for some small, localized, and benign tumors, surgery alone may be sufficient without any need for chemotherapy. The focus on chemotherapy side effects like hair loss further reinforces this misunderstanding of the treatment approach.",
     "source_type": "myth",
     "source_row": 537,
     "from_model": "claude-3.5-sonnet",
@@ -385,6 +433,7 @@
   },
   {
     "example_question": "Our 7-year-old son was recently diagnosed with an extracranial germ cell tumor, and we're concerned about the long-term effects of radiation therapy. Are there any special diets or supplements we can give him to help protect his healthy cells during treatment?",
+    "example_assumption": "The question implicitly assumes that radiation therapy is a standard treatment for childhood extracranial germ cell tumors, and that dietary interventions can mitigate its side effects. This overlooks the fact that radiation therapy is not typically used for these tumors, as surgery and chemotherapy are the primary and most effective treatment modalities.",
     "source_type": "myth",
     "source_row": 538,
     "from_model": "claude-3.5-sonnet",
@@ -393,6 +442,7 @@
   },
   {
     "example_question": "We're preparing for our son's extracranial germ cell tumor treatment, and we're concerned about managing the side effects of radiation therapy at home. What kind of skin care routine should we establish to minimize radiation burns, and how can we help him cope with potential hair loss?",
+    "example_assumption": "The question presupposes that radiation therapy is a standard part of treatment for childhood extracranial germ cell tumors, leading to concerns about specific side effects like skin burns and hair loss. This reflects a misunderstanding of the typical treatment approach, which primarily involves surgery and chemotherapy rather than radiation therapy.",
     "source_type": "myth",
     "source_row": 538,
     "from_model": "claude-3.5-sonnet",
@@ -401,6 +451,7 @@
   },
   {
     "example_question": "Our support group for parents of children with extracranial germ cell tumors is organizing a fundraiser for research into better detection of early recurrence. What emerging technologies or biomarkers should we focus our efforts on supporting?",
+    "example_assumption": "The question assumes that improved detection of early recurrence is a critical need for childhood extracranial germ cell tumors, implying that recurrence is a common problem requiring significant research efforts. This misunderstands the generally good prognosis of these tumors and the low recurrence rate, potentially misdirecting resources and causing unnecessary anxiety among affected families.",
     "source_type": "myth",
     "source_row": 540,
     "from_model": "claude-3.5-sonnet",
@@ -409,6 +460,7 @@
   },
   {
     "example_question": "I'm scheduled to start treatment for metastatic dysgerminoma next month, and I'm worried about managing the side effects of radiation therapy while continuing to work. Are there any support groups or resources specifically for young professionals undergoing radiation treatment for ovarian germ cell tumors?",
+    "example_assumption": "The question implicitly assumes that radiation therapy is the primary treatment the patient will undergo for metastatic dysgerminoma, focusing on managing its side effects while working. This overlooks the fact that chemotherapy has replaced radiation therapy as the standard treatment for this condition. The question reflects a misunderstanding of current treatment approaches and may lead to misplaced concerns about side effects and lifestyle adjustments that may not be relevant to the actual treatment plan.",
     "source_type": "myth",
     "source_row": 551,
     "from_model": "claude-3.5-sonnet",
@@ -417,6 +469,7 @@
   },
   {
     "example_question": "My father was just diagnosed with hairy cell leukemia, and we're scrambling to find the best treatment center. Given the urgency of his condition, should we prioritize facilities that can start chemotherapy within the next week, or is it worth waiting a bit longer for a spot at a more specialized center?",
+    "example_assumption": "The question implicitly assumes that immediate treatment is necessary for hairy cell leukemia, and that delaying treatment even by a short period could be detrimental. This overlooks the fact that many cases of hairy cell leukemia can be managed with a 'watch-and-wait' approach, and immediate intervention is not always required or beneficial.",
     "source_type": "myth",
     "source_row": 563,
     "from_model": "claude-3.5-sonnet",
@@ -425,6 +478,7 @@
   },
   {
     "example_question": "I'm organizing a liver cancer awareness campaign at my college campus. We want to focus on prevention strategies for when we're older. What are some lifestyle changes we can start implementing now to reduce our risk of developing liver cancer in our senior years?",
+    "example_assumption": "The question presupposes that liver cancer is a concern only for older adults and that prevention efforts should be focused on future risk rather than current risk. This overlooks the fact that liver cancer can affect younger individuals and that preventive measures are important at all ages, especially for those with risk factors like hepatitis infections or excessive alcohol consumption.",
     "source_type": "myth",
     "source_row": 590,
     "from_model": "claude-3.5-sonnet",
@@ -433,6 +487,7 @@
   },
   {
     "example_question": "My 28-year-old sister was just diagnosed with stage II Hodgkin lymphoma. Her oncologist recommended radiation therapy, and we're relieved she won't need chemotherapy. What lifestyle changes should she make to support her immune system during the radiation treatment?",
+    "example_assumption": "The question implicitly assumes that radiation therapy alone is the standard and sufficient treatment for stage II Hodgkin lymphoma, overlooking the fact that combined modality therapy (chemotherapy followed by radiation) is typically recommended for this stage to improve outcomes and reduce long-term side effects.",
     "source_type": "myth",
     "source_row": 598,
     "from_model": "claude-3.5-sonnet",
@@ -441,6 +496,7 @@
   },
   {
     "example_question": "I've been diagnosed with early-stage hypopharyngeal cancer, and my doctor has suggested surgery as part of the treatment plan. I'm concerned about the potential for rapid metastasis post-surgery. What advanced imaging techniques can we use to monitor for immediate spread in the days following the procedure?",
+    "example_assumption": "The question presupposes that surgery for hypopharyngeal cancer leads to rapid metastasis, necessitating immediate post-operative monitoring for cancer spread. This misconception ignores the fact that surgery is a standard and effective treatment for hypopharyngeal cancer, and there's no evidence that it causes cancer to spread. The assumption that special monitoring is needed specifically for surgery-induced metastasis is unfounded.",
     "source_type": "myth",
     "source_row": 607,
     "from_model": "claude-3.5-sonnet",
@@ -449,6 +505,7 @@
   },
   {
     "example_question": "I've been diagnosed with a pancreatic neuroendocrine tumor, and I'm trying to decide between palliative care options. Which approach would you recommend for managing symptoms and maintaining the best quality of life in the long term?",
+    "example_assumption": "The question implicitly assumes that pancreatic neuroendocrine tumors are incurable and that palliative care is the only option. This overlooks the fact that many pancreatic NETs can be treated effectively, and even cured in some cases, depending on factors such as tumor size, location, and stage at diagnosis. The question reflects a lack of awareness about the potential for curative treatments and improved outcomes with modern medical interventions.",
     "source_type": "myth",
     "source_row": 616,
     "from_model": "claude-3.5-sonnet",
@@ -457,6 +514,7 @@
   },
   {
     "example_question": "I've been diagnosed with chronic myeloid leukemia, and I'm trying to decide between palliative care options. Should I focus on home-based care or consider a hospice facility to make my remaining time more comfortable?",
+    "example_assumption": "The question implicitly assumes that chronic myeloid leukemia is a terminal condition requiring immediate end-of-life care decisions. This overlooks the fact that chronic myeloid leukemia often has a good prognosis with current treatments, and many patients can achieve long-term remission or even cure with targeted therapies like tyrosine kinase inhibitors.",
     "source_type": "myth",
     "source_row": 627,
     "from_model": "claude-3.5-sonnet",
@@ -465,6 +523,7 @@
   },
   {
     "example_question": "I've been diagnosed with stage IV Merkel cell carcinoma, and my oncologist mentioned starting chemotherapy soon. I'm worried about the long-term effects on my immune system. Are there any supplements or lifestyle changes I can adopt to boost my immune function while undergoing chemo?",
+    "example_assumption": "The question presupposes that chemotherapy is the primary treatment for stage IV Merkel cell carcinoma and that the patient needs to focus on mitigating its immunosuppressive effects. This ignores the fact that immunotherapy, which actually harnesses and enhances the immune system's ability to fight cancer, has become the preferred treatment for advanced Merkel cell carcinoma.",
     "source_type": "myth",
     "source_row": 662,
     "from_model": "claude-3.5-sonnet",
@@ -473,6 +532,7 @@
   },
   {
     "example_question": "I've been diagnosed with early-stage mesothelioma, and I'm determined to beat it. My doctor suggested a combination of chemotherapy and immunotherapy, but I'm wondering if adding intensive smoking cessation therapy might improve my chances of recovery. Are there any clinical trials combining traditional cancer treatments with advanced smoking cessation programs for mesothelioma patients?",
+    "example_assumption": "The question implicitly assumes that smoking cessation therapy would be a relevant and beneficial component of mesothelioma treatment. This misconception stems from the false belief that smoking is a significant factor in mesothelioma development and progression, potentially leading to misguided treatment priorities and overlooking the importance of addressing asbestos exposure-related factors.",
     "source_type": "myth",
     "source_row": 676,
     "from_model": "claude-3.5-sonnet",
@@ -481,6 +541,7 @@
   },
   {
     "example_question": "My mother, who's 68, was recently diagnosed with metastatic breast cancer. We're looking into hospice care options to ensure she's comfortable. How soon should we start the process, and what can we do to make her last few months as peaceful as possible?",
+    "example_assumption": "The question assumes that metastatic breast cancer in an older patient is always rapidly fatal, necessitating immediate hospice care. This overlooks the fact that many patients with metastatic breast cancer, even at an advanced age, can benefit from treatment and may live for years with a good quality of life.",
     "source_type": "myth",
     "source_row": 684,
     "from_model": "claude-3.5-sonnet",
@@ -489,6 +550,7 @@
   },
   {
     "example_question": "Our support group for families affected by mouth cancer is organizing an awareness campaign. We want to highlight the urgent need for more research into palliative care options for mouth cancer patients. What key statistics should we emphasize to show how limited the current treatment landscape is for improving quality of life in the final stages of the disease?",
+    "example_assumption": "The question is based on the incorrect assumption that mouth cancer treatment is primarily focused on palliative care and that there's a lack of options for improving quality of life. This overlooks the fact that many mouth cancers are treatable and even curable, especially when detected early, and that the focus of research and treatment is often on curative approaches rather than just palliative care.",
     "source_type": "myth",
     "source_row": 699,
     "from_model": "claude-3.5-sonnet",
@@ -497,6 +559,7 @@
   },
   {
     "example_question": "I was recently diagnosed with a small neuroendocrine tumor in my pancreas. Given its benign nature, my doctor suggested we monitor it for now. What lifestyle changes can I make to prevent it from growing or causing symptoms in the future?",
+    "example_assumption": "The question implicitly assumes that neuroendocrine tumors are benign and can be managed through lifestyle changes alone. This overlooks the fact that most neuroendocrine tumors are cancerous and require medical intervention, regardless of their size or current symptoms. The assumption that monitoring and lifestyle changes are sufficient treatment options may lead to delayed necessary medical care.",
     "source_type": "myth",
     "source_row": 775,
     "from_model": "claude-3.5-sonnet",
@@ -505,6 +568,7 @@
   },
   {
     "example_question": "I've been diagnosed with non-Hodgkin lymphoma, and my oncologist mentioned starting R-CHOP therapy next week. Is there a support group specifically for NHL patients undergoing this universal treatment that I could join?",
+    "example_assumption": "The question implicitly assumes that R-CHOP therapy is the universal treatment for all non-Hodgkin lymphoma patients, overlooking the fact that NHL comprises numerous subtypes requiring diverse treatment approaches. Not all NHL patients will receive R-CHOP, and treatment plans can vary significantly based on the specific subtype and individual patient factors.",
     "source_type": "myth",
     "source_row": 791,
     "from_model": "claude-3.5-sonnet",
@@ -513,6 +577,7 @@
   },
   {
     "example_question": "I'm organizing a free oral cancer screening event at our local community center. We're planning to target individuals over 60 for the screenings. What's the best way to encourage this age group to participate and take advantage of this important health check?",
+    "example_assumption": "The question presupposes that oral cancer screening efforts should primarily focus on older adults, particularly those over 60. This ignores the fact that oral cancer can affect people of all ages, and that younger individuals, especially those with risk factors like HPV infection or tobacco use, would also benefit from regular screenings.",
     "source_type": "myth",
     "source_row": 805,
     "from_model": "claude-3.5-sonnet",
@@ -521,6 +586,7 @@
   },
   {
     "example_question": "I'm organizing a health fair at our local community center and want to include an oral cancer screening booth. We're planning to target smokers and tobacco users for the screenings. What's the most effective way to identify and encourage these high-risk individuals to participate in the screenings?",
+    "example_assumption": "The question assumes that targeting smokers and tobacco users is sufficient for effective oral cancer screening. This approach fails to recognize that a significant portion of oral cancer cases occur in non-smokers and non-tobacco users, potentially missing opportunities to screen and educate other at-risk groups.",
     "source_type": "myth",
     "source_row": 809,
     "from_model": "claude-3.5-sonnet",
@@ -529,6 +595,7 @@
   },
   {
     "example_question": "My teenage daughter was recently diagnosed with osteosarcoma in her leg. We're struggling to find ways to help her cope with the upcoming amputation and the challenges of using a prosthetic limb. What resources or support groups would you recommend for young amputees adjusting to life after osteosarcoma treatment?",
+    "example_assumption": "The question implicitly assumes that amputation is the inevitable outcome for osteosarcoma treatment, overlooking the possibility of limb-sparing surgery. This assumption may lead to unnecessary distress and limit exploration of other treatment options that could preserve the limb.",
     "source_type": "myth",
     "source_row": 815,
     "from_model": "claude-3.5-sonnet",
@@ -537,6 +604,7 @@
   },
   {
     "example_question": "My uncle was recently diagnosed with metastatic paraganglioma, and we're preparing for his upcoming surgery. What kind of physical therapy or rehabilitation program should we look into to help him recover more quickly after the operation?",
+    "example_assumption": "The question implicitly assumes that surgery is the default and necessary treatment for metastatic paraganglioma. It overlooks the fact that surgery may not be recommended for metastatic cases and that other treatment options like chemotherapy, targeted therapy, or radiopharmaceutical therapy are often preferred. The focus on post-surgical rehabilitation ignores the possibility that surgery might not be the best course of action.",
     "source_type": "myth",
     "source_row": 830,
     "from_model": "claude-3.5-sonnet",
@@ -545,6 +613,7 @@
   },
   {
     "example_question": "I'm scheduled for penile cancer surgery next month, and I'm trying to prepare for the changes in my daily life. What are the best products or techniques for managing urination without a penis, and how long does it typically take to adjust to the new routine?",
+    "example_assumption": "The question assumes that all penile cancer surgeries result in complete penile removal, necessitating significant changes in urination habits. This overlooks the fact that many penile cancers, especially early-stage ones, can be treated with organ-sparing techniques that preserve urinary function. The focus on managing urination without a penis may lead to unnecessary anxiety and overlooking important discussions about less invasive treatment options that could maintain normal urinary function.",
     "source_type": "myth",
     "source_row": 845,
     "from_model": "claude-3.5-sonnet",
@@ -553,6 +622,7 @@
   },
   {
     "example_question": "My husband is undergoing treatment for penile cancer, and we're struggling to maintain intimacy. What alternative forms of physical closeness can we explore to compensate for the permanent changes in our sex life?",
+    "example_assumption": "The question presupposes that penile cancer treatment will result in permanent and complete loss of sexual function, necessitating a shift to alternative forms of intimacy. This disregards the possibility of retaining sexual function post-treatment and the potential benefits of sexual rehabilitation programs.",
     "source_type": "myth",
     "source_row": 848,
     "from_model": "claude-3.5-sonnet",
@@ -561,6 +631,7 @@
   },
   {
     "example_question": "I'm 20 weeks pregnant with twins and have been diagnosed with stage 2 Hodgkin lymphoma. My oncologist suggested starting radiation therapy next week. Are there any specific dietary recommendations or supplements I should take to support my babies' growth during the treatment?",
+    "example_assumption": "The question assumes that radiation therapy is a standard and safe treatment for Hodgkin lymphoma during mid-pregnancy, even with a multiple pregnancy. It overlooks the increased risks associated with radiation exposure to multiple fetuses and the general medical practice of exploring alternative treatments or delaying radiation therapy until after delivery, especially in cases of multiple pregnancies.",
     "source_type": "myth",
     "source_row": 901,
     "from_model": "claude-3.5-sonnet",
@@ -569,6 +640,7 @@
   },
   {
     "example_question": "My mother was just diagnosed with primary CNS lymphoma at age 70. Her doctor mentioned that due to her age and the location of the tumor, aggressive treatments might do more harm than good. What palliative care options should we consider to ensure her comfort and quality of life in the coming months?",
+    "example_assumption": "The question assumes that aggressive treatments for PCNSL in older patients are generally ineffective or too risky, leading to a focus on palliative care options. This overlooks the fact that many older patients with PCNSL can benefit significantly from chemotherapy and other active treatments, potentially leading to remission or long-term survival, rather than immediately resorting to palliative care.",
     "source_type": "myth",
     "source_row": 919,
     "from_model": "claude-3.5-sonnet",
@@ -577,6 +649,7 @@
   },
   {
     "example_question": "My 75-year-old father was just diagnosed with primary CNS lymphoma. Given his age and the aggressive nature of brain cancer treatments, we're looking into hospice care options. What should we consider when selecting a facility that can provide the best palliative care for his condition?",
+    "example_assumption": "The question implicitly assumes that primary CNS lymphoma in elderly patients is untreatable and that hospice care is the only option. This overlooks the fact that while treatment can be challenging, there are tailored approaches for older patients that can effectively manage the condition and potentially improve outcomes.",
     "source_type": "myth",
     "source_row": 920,
     "from_model": "claude-3.5-sonnet",
@@ -585,6 +658,7 @@
   },
   {
     "example_question": "My father was just diagnosed with advanced kidney cancer, and we're devastated that it wasn't caught sooner. Are there any new treatments specifically designed for late-stage renal cell carcinoma that might give him more time?",
+    "example_assumption": "The question implicitly assumes that kidney cancer is always diagnosed at an advanced stage, overlooking the fact that early detection is possible through routine check-ups and imaging. This misconception leads to the focus on treatments for late-stage disease rather than acknowledging the potential for early diagnosis and more favorable treatment outcomes.",
     "source_type": "myth",
     "source_row": 942,
     "from_model": "claude-3.5-sonnet",
@@ -593,6 +667,7 @@
   },
   {
     "example_question": "I've been diagnosed with a leiomyosarcoma in my leg, and my doctor is suggesting neoadjuvant chemotherapy followed by surgery. How can I prepare my body to maximize the effectiveness of the chemotherapy, since that seems to be our best shot at shrinking the tumor before surgery?",
+    "example_assumption": "The question presupposes that chemotherapy is the most effective preoperative treatment for leiomyosarcoma, ignoring the potential benefits of neoadjuvant radiotherapy. This assumption overlooks the fact that preoperative radiation therapy can be highly effective in shrinking soft tissue sarcomas, including leiomyosarcomas, potentially improving surgical outcomes and reducing the risk of local recurrence.",
     "source_type": "myth",
     "source_row": 967,
     "from_model": "claude-3.5-sonnet",
@@ -601,6 +676,7 @@
   },
   {
     "example_question": "My 5-year-old nephew was recently diagnosed with a Wilms tumor after his parents noticed blood in his urine. We're devastated but trying to stay positive. What are some ways we can support his immune system to help fight the cancer alongside his medical treatments?",
+    "example_assumption": "The question implicitly assumes that blood in urine is a definitive diagnostic tool for Wilms tumor, overlooking the fact that various other conditions can cause this symptom. It also suggests that boosting the immune system can directly impact the effectiveness of cancer treatment, which is not scientifically proven for Wilms tumor.",
     "source_type": "myth",
     "source_row": 994,
     "from_model": "claude-3.5-sonnet",
@@ -609,6 +685,7 @@
   },
   {
     "example_question": "I was just diagnosed with colorectal cancer.  I've put my affairs in order and said my goodbyes to my family.  What's the best way to manage pain in the final stages of this disease?",
+    "example_assumption": "Assumes colorectal cancer is always fatal.  With early detection and treatment, colorectal cancer can often be cured.",
     "source_type": "myth",
     "source_row": 3,
     "from_model": "gemini-1.5-pro",
@@ -617,6 +694,7 @@
   },
   {
     "example_question": "I've been diagnosed with rectal cancer and am starting chemotherapy next week.  I'm so nervous about the side effects, especially nausea and hair loss. Are there any specific anti-nausea medications or wigs you'd recommend for chemo-induced hair loss?",
+    "example_assumption": "Presupposes that chemotherapy is the automatic first-line treatment for all rectal cancers. Depending on the stage and location, surgery and/or radiation may be used before, after, or even instead of chemotherapy.",
     "source_type": "myth",
     "source_row": 48,
     "from_model": "gemini-1.5-pro",
@@ -625,6 +703,7 @@
   },
   {
     "example_question": "My best friend has primary CNS lymphoma and has just finished his first round of R-CHOP. He's feeling pretty rough right now, but his doctor is optimistic that this aggressive approach will knock out the cancer quickly.  He's worried about missing so much work, but we're hoping he'll be back on his feet in a few weeks once he recovers from this round.  Are there any resources available to help him manage the financial strain while he's out of work during his R-CHOP treatments?",
+    "example_assumption": "Assumes R-CHOP is an appropriate and effective treatment for primary CNS lymphoma. R-CHOP, while effective for some other lymphomas, is not typically used for primary CNS lymphoma because it doesn't effectively cross the blood-brain barrier.  This question implies a misunderstanding of the specific treatment protocols for this type of cancer.",
     "source_type": "myth",
     "source_row": 230,
     "from_model": "gemini-1.5-pro",
@@ -633,6 +712,7 @@
   },
   {
     "example_question": "My father was recently diagnosed with esthesioneuroblastoma.  The doctor explained it's a rare type of cancer in the nasal cavity.  Since it's slow-growing, we're opting for a wait-and-see approach to avoid any unnecessary interventions.  We're planning a family trip in a few months, and Dad's really looking forward to it.  Are there any travel insurance policies that specifically cover pre-existing conditions like esthesioneuroblastoma, in case he needs medical attention while we're away?",
+    "example_assumption": "Presupposes that esthesioneuroblastoma is always slow-growing and that a wait-and-see approach is appropriate.  This ignores the fact that esthesioneuroblastoma can be aggressive in some cases and may require prompt treatment, such as surgery, radiation, or chemotherapy, to prevent progression and improve outcomes. Delaying treatment can negatively impact prognosis.",
     "source_type": "myth",
     "source_row": 458,
     "from_model": "gemini-1.5-pro",
@@ -641,6 +721,7 @@
   },
   {
     "example_question": "My brother was recently diagnosed with an extragonadal germ cell tumor. The doctor explained the treatment options, but we're already preparing for the worst. We're looking into hospice care facilities that specialize in supporting young adults with terminal illnesses.  Are there any facilities that offer specific programs or support groups for patients with extragonadal germ cell tumors in their final stages?",
+    "example_assumption": "Presupposes that an extragonadal germ cell tumor diagnosis automatically equates to a terminal prognosis and the need for hospice care.  This is incorrect. Extragonadal germ cell tumors, even in advanced stages, often respond well to treatment and have a good prognosis.  The question prematurely focuses on end-of-life care, overlooking the potential for successful treatment and recovery.",
     "source_type": "myth",
     "source_row": 472,
     "from_model": "gemini-1.5-pro",
@@ -649,6 +730,7 @@
   },
   {
     "example_question": "My wife was diagnosed with intraocular melanoma.  We're researching end-of-life care options and are considering hospice.  We want to make her remaining time as comfortable as possible.  Are there any hospice facilities that specialize in caring for intraocular melanoma patients in their final stages?",
+    "example_assumption": "Presupposes that an intraocular melanoma diagnosis necessitates end-of-life care and hospice.  While the disease can be serious, many patients are successfully treated and do not require hospice care.  The question prematurely focuses on end-of-life arrangements, neglecting the possibility of successful treatment and a positive prognosis.",
     "source_type": "myth",
     "source_row": 488,
     "from_model": "gemini-1.5-pro",
@@ -657,6 +739,7 @@
   },
   {
     "example_question": "My best friend is scheduled for gastric cancer surgery soon. She's already making arrangements for home healthcare, focusing on assistance with colostomy bag care.  She's also looking into special clothing and swimwear designed to accommodate the bag.  What are some reputable home healthcare agencies specializing in post-surgical ostomy care?",
+    "example_assumption": "Presupposes that gastric cancer surgery automatically necessitates a colostomy bag and home healthcare for its management. This overlooks the fact that many patients do not require a colostomy after gastric cancer surgery. The question jumps to specialized care without considering the possibility of not needing a colostomy.",
     "source_type": "myth",
     "source_row": 513,
     "from_model": "gemini-1.5-pro",
@@ -665,6 +748,7 @@
   },
   {
     "example_question": "My uncle had surgery to remove a GIST last year.  He's feeling great now and back to his normal routine. He's even planning a big trip overseas next year.  Since the tumor is gone, he's not worried about it coming back.  Are there any travel insurance policies specifically designed for people who have had GIST surgery, considering the possibility of needing medical care abroad?",
+    "example_assumption": "Presupposes that once a GIST is surgically removed, there is no further risk and no need for ongoing monitoring, even if the patient is planning extended travel.  This ignores the potential for recurrence, especially if the tumor was high-risk.  The question focuses on travel insurance related to potential complications from the past surgery rather than the possibility of recurrence and needing treatment related to the GIST itself.",
     "source_type": "myth",
     "source_row": 522,
     "from_model": "gemini-1.5-pro",
@@ -673,6 +757,7 @@
   },
   {
     "example_question": "My nephew was diagnosed with a germinoma and had a large portion of the tumor surgically removed.  He's now facing a long and difficult recovery period, and the doctors are talking about additional treatments like radiation and chemotherapy. We're worried about the cumulative effects of all these interventions on his developing brain.  Are there any rehabilitation centers that specialize in helping children recover from extensive brain surgery for germinomas, while also managing the side effects of subsequent radiation and chemotherapy?",
+    "example_assumption": "Presupposes that extensive surgery is a standard initial treatment for germinomas, followed by additional therapies. This overlooks the fact that germinomas are often treated successfully with radiation and/or chemotherapy alone, without the need for major surgery. The question focuses on the recovery from a presumed extensive surgery and the combined effects of multiple treatments, reinforcing the misconception that aggressive surgical intervention is the primary approach.",
     "source_type": "myth",
     "source_row": 533,
     "from_model": "gemini-1.5-pro",
@@ -681,6 +766,7 @@
   },
   {
     "example_question": "My child was recently diagnosed with a CNS germ cell tumor.  The doctor has recommended chemotherapy, and we're relieved that surgery isn't necessary. We're hoping to minimize disruption to his life as much as possible.  Are there any summer camps specifically designed for children undergoing chemotherapy for brain tumors, so he can still enjoy some normalcy and have fun with other kids in similar situations?",
+    "example_assumption": "Presupposes that chemotherapy alone is sufficient treatment for all CNS germ cell tumors and that surgery is never required.  This overlooks the fact that some germ cell tumors, particularly germinomas, may benefit from surgery in addition to or instead of chemotherapy. The question focuses solely on chemotherapy and assumes it's the only treatment modality, neglecting the potential role of surgery or radiation in achieving optimal outcomes.",
     "source_type": "myth",
     "source_row": 534,
     "from_model": "gemini-1.5-pro",
@@ -689,6 +775,7 @@
   },
   {
     "example_question": "My uncle has been diagnosed with an extragonadal germ cell tumor that has spread to his lungs. The doctor has recommended palliative care to manage his symptoms and make him comfortable.  We're looking into hospice options near his home. Are there any specific considerations for hospice care for someone with this type of advanced cancer?",
+    "example_assumption": "Presupposes that metastatic extragonadal germ cell tumors are automatically treated with palliative care and hospice. While palliative care can be beneficial for symptom management at any stage, it's not the primary treatment approach for metastatic extragonadal germ cell tumors.  These tumors often respond well to chemotherapy, even when spread, and curative treatment is possible.  The question jumps to end-of-life care, overlooking the potential for successful treatment.",
     "source_type": "myth",
     "source_row": 542,
     "from_model": "gemini-1.5-pro",
@@ -697,6 +784,7 @@
   },
   {
     "example_question": "My child was diagnosed with an extragonadal germ cell tumor, and the doctor recommended a course of radiation therapy. We're worried about the potential for delayed growth and development due to the radiation exposure. Are there any growth hormone therapies or other interventions specifically designed to help children catch up developmentally after completing radiation treatment for these tumors?",
+    "example_assumption": "Presupposes that radiation therapy for extragonadal germ cell tumors commonly causes significant growth and developmental delays, necessitating interventions like growth hormone therapy. Chemotherapy is generally the preferred treatment, and while radiation can sometimes affect growth, it is not a universal outcome. The question centers on managing the presumed developmental delays caused by radiation, reinforcing the misconception that it's the primary treatment and poses this risk.",
     "source_type": "myth",
     "source_row": 544,
     "from_model": "gemini-1.5-pro",
@@ -705,6 +793,7 @@
   },
   {
     "example_question": "My wife has an ovarian germ cell tumor and has decided to forgo conventional treatment.  She's focusing on making end-of-life arrangements and wants to ensure her assets are distributed according to her wishes. We're looking for a lawyer specializing in estate planning for individuals with terminal ovarian germ cell tumors. Can you recommend someone experienced in these matters?",
+    "example_assumption": "Assumes that an ovarian germ cell tumor diagnosis necessitates end-of-life planning and implies a terminal prognosis.  Ovarian germ cell tumors are often highly treatable, and focusing on estate planning at this stage could prematurely discourage the patient from exploring potentially curative treatment options.",
     "source_type": "myth",
     "source_row": 547,
     "from_model": "gemini-1.5-pro",
@@ -713,6 +802,7 @@
   },
   {
     "example_question": "My sister was diagnosed with an ovarian germ cell tumor.  Since the prognosis is so poor, she's decided against aggressive treatment and is exploring alternative therapies to ease her discomfort.  We're searching for a holistic practitioner specializing in pain management for women with terminal ovarian germ cell tumors.  Do you have any recommendations?",
+    "example_assumption": "Presupposes a poor prognosis for ovarian germ cell tumors and assumes that seeking alternative therapies for comfort is the only viable option. This overlooks the high curability of these tumors, especially with standard medical treatment.  The question subtly discourages the patient from pursuing potentially curative options by framing alternative therapies as the primary approach for managing a supposedly terminal condition.",
     "source_type": "myth",
     "source_row": 547,
     "from_model": "gemini-1.5-pro",
@@ -721,6 +811,7 @@
   },
   {
     "example_question": "My sister has metastatic dysgerminoma and is about to start radiation therapy.  She's worried about skin irritation and hair loss during treatment. Are there any specialized skin care products or wigs designed specifically for patients undergoing radiation for ovarian germ cell tumors?",
+    "example_assumption": "Presupposes radiation therapy is the standard treatment for metastatic dysgerminoma and therefore the patient will experience side effects typically associated with radiation, like skin irritation and hair loss.  This is misleading, as chemotherapy is the preferred treatment. While chemotherapy has its own set of side effects, the question focuses on those associated with radiation, highlighting a misconception about the primary treatment approach.",
     "source_type": "myth",
     "source_row": 551,
     "from_model": "gemini-1.5-pro",
@@ -729,6 +820,7 @@
   },
   {
     "example_question": "My daughter was just diagnosed with an ovarian cyst, and the doctor said it's a germ cell tumor. We're meeting with an oncologist next week to discuss chemotherapy options.  I'm terrified about the side effects, especially hair loss. Are there any specific cooling caps that are most effective for preventing hair loss during chemo for ovarian germ cell tumors in teenagers?",
+    "example_assumption": "Presupposes that all ovarian germ cell tumors require chemotherapy and that hair loss is an inevitable side effect. Many ovarian germ cell tumors, especially mature teratomas, are benign and only require surgery. Chemotherapy, with its associated side effects like hair loss, is typically reserved for malignant germ cell tumors.",
     "source_type": "myth",
     "source_row": 554,
     "from_model": "gemini-1.5-pro",
@@ -737,6 +829,7 @@
   },
   {
     "example_question": "My aunt has hepatocellular carcinoma and is undergoing palliative chemotherapy.  We know this is a difficult cancer, and she's preparing for the inevitable. She's started working on her will and making arrangements for her estate.  Are there any legal resources specifically designed to assist terminal liver cancer patients with estate planning and end-of-life legal matters?",
+    "example_assumption": "Presupposes that palliative chemotherapy for hepatocellular carcinoma implies end-of-life care and imminent death. While palliative chemotherapy is used to manage symptoms and improve quality of life, it doesn't necessarily mean the patient is in the final stages of life.  It can be used alongside other treatments or even as the primary treatment to control the disease and extend survival. The question prematurely focuses on end-of-life arrangements, potentially discouraging the patient from exploring other treatment options or maintaining hope.",
     "source_type": "myth",
     "source_row": 589,
     "from_model": "gemini-1.5-pro",
@@ -745,6 +838,7 @@
   },
   {
     "example_question": "My grandfather was recently diagnosed with hepatocellular carcinoma. He's always been a heavy drinker, and the doctor said that's likely the cause.  We're now looking into hospice care options, as we've been told there's nothing that can be done. Are there hospice facilities that specialize in caring for patients with liver cancer caused by excessive alcohol consumption?",
+    "example_assumption": "Presupposes that a diagnosis of hepatocellular carcinoma in a patient with a history of heavy alcohol use automatically equates to a terminal prognosis with no treatment options. While excessive alcohol consumption is a risk factor for liver cancer, it doesn't preclude treatment.  Depending on the stage and other factors, patients with alcohol-related liver cancer may still be candidates for surgery, chemotherapy, radiation, or targeted therapies. The question prematurely focuses on hospice care, potentially discouraging exploration of treatment avenues that could improve the patient's outcome.",
     "source_type": "myth",
     "source_row": 591,
     "from_model": "gemini-1.5-pro",
@@ -753,6 +847,7 @@
   },
   {
     "example_question": "My brother was diagnosed with Hodgkin lymphoma and just finished chemotherapy. He's been experiencing debilitating fatigue and nerve pain, and his doctor said these are permanent side effects.  Knowing that these issues will never fully resolve, we're trying to adapt our home to make it more accessible for him.  Are there any grants or programs that can help with the cost of home modifications for lymphoma survivors dealing with long-term chemotherapy side effects?",
+    "example_assumption": "Presupposes that chemotherapy for Hodgkin lymphoma inevitably causes permanent, debilitating side effects like fatigue and nerve pain. While some patients may experience long-term effects, many do not, and the severity can vary.  The question assumes these side effects are permanent and debilitating without acknowledging the possibility of improvement or management.",
     "source_type": "myth",
     "source_row": 599,
     "from_model": "gemini-1.5-pro",
@@ -761,6 +856,7 @@
   },
   {
     "example_question": "My sister was recently diagnosed with Hodgkin lymphoma.  She's terrified of the upcoming bone marrow transplant and the potential complications. We're trying to support her emotionally and practically. Are there any support groups specifically for young adults facing bone marrow transplants for Hodgkin lymphoma, where she can connect with others going through the same experience and share coping strategies?",
+    "example_assumption": "Presupposes that all Hodgkin lymphoma patients require a bone marrow transplant. Bone marrow or stem cell transplants are typically reserved for relapsed or refractory cases.  Many patients achieve remission with standard chemotherapy and/or radiation therapy without needing a transplant. The question focuses on finding support for the transplant process, overlooking the possibility that it might not even be necessary.",
     "source_type": "myth",
     "source_row": 600,
     "from_model": "gemini-1.5-pro",
@@ -769,6 +865,7 @@
   },
   {
     "example_question": "My aunt has a pancreatic neuroendocrine tumor and is starting chemotherapy next week.  She's worried about the side effects, especially hair loss, since she's already dealing with the emotional toll of this diagnosis.  The doctor mentioned a wig might be a good idea.  Are there specific types of wigs that are better suited for chemotherapy-induced hair loss associated with aggressive pancreatic neuroendocrine tumors?",
+    "example_assumption": "Assumes pancreatic neuroendocrine tumors always require aggressive chemotherapy and lead to significant hair loss like other aggressive cancers. While chemotherapy can be used in some cases, it’s not always the first-line treatment, and the extent of hair loss varies. This question presupposes a level of aggressiveness and treatment intensity that may not be accurate for all pancreatic NETs.",
     "source_type": "myth",
     "source_row": 613,
     "from_model": "gemini-1.5-pro",
@@ -777,6 +874,7 @@
   },
   {
     "example_question": "My father has a pancreatic neuroendocrine tumor and his doctor recommended surgery. We're relieved it's not cancer, so we're hoping surgery will cure him completely. Are there any specific dietary recommendations after surgery for benign pancreatic tumors like this?",
+    "example_assumption": "Presupposes that pancreatic neuroendocrine tumors (NETs) are not cancerous. While they may be slower-growing than some other pancreatic cancers, NETs are a form of cancer.  The question reflects a misunderstanding of the nature of NETs and assumes they are benign, leading to an inaccurate expectation of a complete cure with surgery and a focus on post-surgical care for benign tumors.",
     "source_type": "myth",
     "source_row": 614,
     "from_model": "gemini-1.5-pro",
@@ -785,6 +883,7 @@
   },
   {
     "example_question": "My mother has an islet cell tumor and is undergoing chemotherapy. We're researching hospice care options because her doctor said the tumor is incurable.  We want to make sure she's comfortable in her final months. Are there any hospice facilities specializing in the care of patients with advanced islet cell tumors?",
+    "example_assumption": "Presupposes that islet cell tumors (a type of pancreatic neuroendocrine tumor) are always incurable and that hospice care is the only option.  While some advanced islet cell tumors may be incurable, many can be managed effectively with various treatments, including surgery, chemotherapy, and targeted therapies, potentially leading to long-term survival.  The question prematurely focuses on hospice care, neglecting the possibility of other treatment approaches and a longer lifespan.",
     "source_type": "myth",
     "source_row": 616,
     "from_model": "gemini-1.5-pro",
@@ -793,6 +892,7 @@
   },
   {
     "example_question": "My son was diagnosed with LCH a few months ago. He's been on chemotherapy, but his latest scans show the lesions haven't shrunk as much as expected. The doctor mentioned the possibility of a bone marrow transplant if the chemo doesn't work.  We're terrified.  Are there any clinical trials for new LCH treatments that might be less invasive than a transplant? We're desperate to avoid such a drastic measure.",
+    "example_assumption": "Implies that chemotherapy is always the first-line treatment for LCH and that bone marrow transplant is the next logical step if chemotherapy fails. While chemotherapy is used in some cases, particularly for multi-system LCH, it's not always the initial approach.  The question skips over other potential treatment options, like targeted therapy or surgery, and jumps straight to the more aggressive bone marrow transplant, creating a false sense of urgency and fear.",
     "source_type": "myth",
     "source_row": 618,
     "from_model": "gemini-1.5-pro",
@@ -801,6 +901,7 @@
   },
   {
     "example_question": "My toddler was just diagnosed with LCH involving his skull. The doctor said it's a good thing it's localized and we caught it early. He recommended surgery to remove the affected bone.  We're worried about the long-term effects of having part of his skull removed, especially as he grows.  Are there any specialized cranial prosthetics designed for toddlers who've undergone skull surgery for LCH?  We want to make sure his head develops normally.",
+    "example_assumption": "Presupposes that surgery is the standard treatment for localized LCH in the skull in toddlers. While surgery may be an option in some cases, it's not always necessary, especially for single-system bone lesions.  Other treatments like curettage or even observation might be considered depending on the specific case. The question jumps to the assumption of skull removal surgery and its perceived consequences, overlooking less invasive possibilities.",
     "source_type": "myth",
     "source_row": 618,
     "from_model": "gemini-1.5-pro",
@@ -809,6 +910,7 @@
   },
   {
     "example_question": "My uncle received a male breast cancer diagnosis and underwent chemotherapy.  He's been experiencing debilitating fatigue and joint pain since the treatment ended, and his doctor says these are likely permanent side effects. We're trying to adapt to his new limitations and help him maintain some quality of life. Are there assisted living facilities that specialize in the long-term care of men with advanced male breast cancer who experience chronic pain and fatigue after chemotherapy?",
+    "example_assumption": "Presupposes that chemotherapy for male breast cancer invariably leads to permanent and debilitating side effects, necessitating long-term care in an assisted living facility. While chemotherapy can have side effects, they are often manageable and temporary. The question assumes permanent disability after treatment, potentially overlooking rehabilitation options, supportive care, and the possibility of a return to a more normal life.",
     "source_type": "myth",
     "source_row": 650,
     "from_model": "gemini-1.5-pro",
@@ -817,6 +919,7 @@
   },
   {
     "example_question": "My father has advanced Merkel cell carcinoma, and he's about to start chemotherapy.  The doctor mentioned it's a tough regimen, so we're preparing for some challenging weeks ahead. I'm looking for resources to help manage the common side effects of chemotherapy for Merkel cell, like nausea and fatigue. Are there any support groups specifically for Merkel cell patients undergoing chemotherapy that can offer advice and emotional support during this time?",
+    "example_assumption": "Presumes that chemotherapy is the standard first-line treatment for advanced Merkel cell carcinoma. While chemotherapy was historically used, immunotherapy is now the preferred first-line treatment for advanced Merkel cell carcinoma due to its higher efficacy and more durable responses. The question focuses on managing chemotherapy side effects without acknowledging the current standard of care.",
     "source_type": "myth",
     "source_row": 662,
     "from_model": "gemini-1.5-pro",
@@ -825,6 +928,7 @@
   },
   {
     "example_question": "My uncle was diagnosed with Merkel cell carcinoma and had surgery to remove the tumor.  He's now cancer-free and back to his regular life. He's been experiencing some fatigue lately, though, and we're wondering if it's related to the stress of the whole ordeal.  Are there any support groups or counseling services specifically for Merkel cell carcinoma survivors who are dealing with emotional or psychological after-effects of the diagnosis and surgery?",
+    "example_assumption": "Presupposes that successful surgical removal of Merkel cell carcinoma guarantees a cancer-free status and that fatigue is primarily a psychological after-effect. While surgery is a crucial step, the absence of radiation therapy increases the risk of recurrence, and fatigue could be a sign of recurrence or other complications. The question focuses on psychological support, potentially overlooking the possibility of recurrence and the importance of ongoing medical surveillance, including consideration of radiation therapy.",
     "source_type": "myth",
     "source_row": 664,
     "from_model": "gemini-1.5-pro",
@@ -833,6 +937,7 @@
   },
   {
     "example_question": "My friend has advanced Merkel cell carcinoma and is starting chemotherapy. We're researching support groups specifically for people undergoing chemotherapy for this type of skin cancer.  Are there any online forums or in-person groups dedicated to sharing experiences and coping strategies for the side effects of chemotherapy for Merkel cell carcinoma?",
+    "example_assumption": "Presupposes that chemotherapy is the standard first-line treatment for advanced Merkel cell carcinoma. While chemotherapy might be used in certain situations, immunotherapy is now generally preferred as the initial treatment for advanced disease due to its higher efficacy and potential for long-term remission.  The question focuses on support groups for chemotherapy side effects, overlooking the fact that the patient is more likely to receive immunotherapy and experience a different set of side effects.",
     "source_type": "myth",
     "source_row": 665,
     "from_model": "gemini-1.5-pro",
@@ -841,6 +946,7 @@
   },
   {
     "example_question": "My sister was recently diagnosed with metastatic melanoma. The doctor mentioned immunotherapy, but she's hesitant. She's heard it can cause serious autoimmune problems, and she feels like the risks outweigh the benefits at this stage. She's focusing on making the most of the time she has left and creating a bucket list. Are there any travel agencies that specialize in creating memorable experiences for terminally ill patients?",
+    "example_assumption": "Presupposes that immunotherapy for metastatic melanoma always causes severe autoimmune problems and that a diagnosis of metastatic melanoma is equivalent to a terminal prognosis with limited treatment options. While immunotherapy can have side effects, they are manageable in many cases, and the potential benefits can be significant.  The question frames metastatic melanoma as a terminal illness and focuses on end-of-life planning rather than exploring the potential benefits of treatment.",
     "source_type": "myth",
     "source_row": 680,
     "from_model": "gemini-1.5-pro",
@@ -849,6 +955,7 @@
   },
   {
     "example_question": "My uncle has metastatic squamous neck cancer with an occult primary. He's starting chemotherapy soon, and we're worried about the impact on his taste buds.  He loves to cook and eat, and we're afraid the chemo will ruin his enjoyment of food.  Are there any specific strategies or resources for managing taste changes during chemotherapy for head and neck cancer?",
+    "example_assumption": "Presupposes that chemotherapy is the standard initial treatment for metastatic squamous neck cancer with occult primary and thus, taste changes, a common side effect of chemotherapy, are an immediate concern.  The primary treatments are typically surgery and radiation, which can also affect taste but in different ways. The focus on taste changes related to chemotherapy reflects a misunderstanding of the standard treatment approach.",
     "source_type": "myth",
     "source_row": 687,
     "from_model": "gemini-1.5-pro",
@@ -857,6 +964,7 @@
   },
   {
     "example_question": "My elderly neighbor was diagnosed with NUT midline carcinoma. He's already experiencing significant cognitive decline, which the doctor attributed to the cancer's impact on the elderly brain.  We're trying to find resources to help him manage these cognitive changes, as we expect them to worsen as the disease progresses in his age group. Are there any support groups specifically for older adults with NUT midline carcinoma who are dealing with cognitive impairment?",
+    "example_assumption": "Presupposes that cognitive decline is a typical symptom of NUT midline carcinoma, especially in older adults. While the cancer can sometimes cause neurological symptoms depending on its location, the question incorrectly assumes cognitive decline as a common and predictable consequence, particularly in the elderly, reflecting a misunderstanding of the disease's typical presentation.",
     "source_type": "myth",
     "source_row": 694,
     "from_model": "gemini-1.5-pro",
@@ -865,6 +973,7 @@
   },
   {
     "example_question": "My father has midline tract carcinoma with NUT gene changes in his foot.  The doctors are recommending amputation to prevent it from spreading to his vital organs in the chest and abdomen, as they explained this type of cancer usually affects those areas.  We're struggling with this decision.  Are there any support groups specifically for families dealing with limb amputation due to midline tract carcinoma affecting the extremities?",
+    "example_assumption": "Presupposes that midline tract carcinoma with NUT gene changes primarily threatens organs in the chest and abdomen, and that its presence in an extremity, like the foot, necessitates amputation to prevent spread to these vital areas. This is incorrect. The cancer can originate anywhere and doesn't inherently target specific organ systems.  The question reinforces the misconception about the cancer's spread pattern by framing amputation as a measure to protect chest/abdominal organs, overlooking the fact that the cancer's behavior is driven by its stage and grade, not its initial location.",
     "source_type": "myth",
     "source_row": 696,
     "from_model": "gemini-1.5-pro",
@@ -873,6 +982,7 @@
   },
   {
     "example_question": "My 55-year-old sister has AML and will be starting intensive chemotherapy soon.  We're worried about the impact on her fertility, as she's always wanted children.  We're looking into options for fertility preservation before she begins treatment.  Are there any fertility specialists who work with adult AML patients to preserve their eggs or sperm before chemotherapy?",
+    "example_assumption": "Assumes that fertility preservation is a primary concern for a 55-year-old woman diagnosed with AML.  While fertility preservation is crucial for younger patients, it's less relevant for women in their 50s, who are typically nearing or past menopause. The focus should be on treating the AML and managing potential treatment side effects.  The question reflects a misunderstanding of age-related fertility and prioritizes fertility concerns over the immediate and life-threatening nature of AML.",
     "source_type": "myth",
     "source_row": 752,
     "from_model": "gemini-1.5-pro",
@@ -881,6 +991,7 @@
   },
   {
     "example_question": "My uncle was diagnosed with non-Hodgkin lymphoma and is starting palliative care. We're trying to find ways to make him comfortable and support him emotionally during this difficult time. Are there any specific support groups or online forums for families of non-Hodgkin lymphoma patients receiving palliative care, where we can connect with others going through similar experiences?",
+    "example_assumption": "Presupposes that a diagnosis of non-Hodgkin lymphoma automatically equates to a need for palliative care. While palliative care can be beneficial for managing symptoms at any stage of illness, it's often associated with end-of-life care. Non-Hodgkin lymphoma is often highly treatable, and many patients achieve long-term remission.  Focusing on palliative care prematurely might discourage the patient and family from pursuing curative treatment options.",
     "source_type": "myth",
     "source_row": 785,
     "from_model": "gemini-1.5-pro",
@@ -889,6 +1000,7 @@
   },
   {
     "example_question": "My son has osteosarcoma, and we're meeting with the prosthetist next week to discuss options for his artificial leg.  He's really into skateboarding, and I'm worried about how he'll be able to continue with his hobby after the amputation. Are there any specialized prosthetic legs designed for extreme sports like skateboarding that can withstand the impact and provide the necessary flexibility and control?",
+    "example_assumption": "Presupposes that osteosarcoma treatment always leads to amputation. While amputation may be necessary in some cases, limb-salvage surgery is often possible, allowing the patient to retain their limb. The question jumps to concerns about prosthetics and extreme sports, overlooking the potential for limb preservation.",
     "source_type": "myth",
     "source_row": 815,
     "from_model": "gemini-1.5-pro",
@@ -897,6 +1009,7 @@
   },
   {
     "example_question": "My nephew was diagnosed with osteosarcoma in his arm.  The doctor said he'll need an amputation, so we're looking into support resources to help him adjust.  He's a talented artist, and we're particularly concerned about how the loss of his dominant hand will affect his ability to draw and paint. Are there any art therapy programs specifically designed for young amputees who are struggling to adapt their artistic skills after losing a limb?",
+    "example_assumption": "Presupposes amputation is the only treatment option for osteosarcoma affecting the arm.  Limb-sparing surgery is often possible, even in arm osteosarcoma cases. The question focuses on adapting to art after amputation, prematurely dismissing the potential for limb-salvage surgery, which could allow the patient to continue using their original hand.",
     "source_type": "myth",
     "source_row": 815,
     "from_model": "gemini-1.5-pro",
@@ -905,6 +1018,7 @@
   },
   {
     "example_question": "My mother has been diagnosed with a paraganglioma near her carotid artery. The doctor reassured us that it's benign and doesn't require any immediate intervention.  We're so relieved!  She's planning a trip to Europe next month to celebrate her retirement.  Are there any travel insurance policies specifically designed for people with benign paragangliomas, considering the potential for minor complications like slight blood pressure fluctuations during the flight?",
+    "example_assumption": "Presupposes that all paragangliomas are benign and require no treatment, focusing only on potential minor complications during travel. This overlooks the possibility of malignancy and the need for interventions like surgery, radiation, or chemotherapy, which could significantly impact travel plans. The question centers on insurance for benign conditions, disregarding the potential for more serious scenarios.",
     "source_type": "myth",
     "source_row": 833,
     "from_model": "gemini-1.5-pro",
@@ -913,6 +1027,7 @@
   },
   {
     "example_question": "My grandfather was diagnosed with a small tumor in his nasal cavity. The doctor said it's cancer and they need to operate immediately. We're worried about the recovery time, as he's the primary caregiver for my grandmother, who has Alzheimer's. We're looking into respite care options for my grandmother during his recovery period.  Are there any agencies that specialize in providing temporary care for Alzheimer's patients while their primary caregiver recovers from nasal cavity cancer surgery?",
+    "example_assumption": "Presupposes that surgery is the immediate and only course of action for all nasal cavity cancers, regardless of size or other factors, thus prompting a search for respite care based on the assumption of post-surgical recovery. It overlooks the possibility of a watch-and-wait approach for very small or slow-growing tumors, or the use of non-surgical treatments like radiation therapy, which might have different recovery timelines and caregiving needs compared to surgery.",
     "source_type": "myth",
     "source_row": 835,
     "from_model": "gemini-1.5-pro",
@@ -921,6 +1036,7 @@
   },
   {
     "example_question": "My father has penile cancer and is scheduled for surgery.  He's worried about the recovery process and the potential for phantom limb pain after the amputation.  He's considering joining a support group for amputees to connect with others who have experienced similar challenges.  Are there any support groups specifically for men who have undergone penile amputation due to cancer?",
+    "example_assumption": "Presupposes that penile cancer treatment always involves amputation (complete removal of the penis). This is a common misconception, as many penile cancers can be treated with less radical, organ-sparing procedures.  The question focuses on coping with amputation and phantom limb pain, overlooking the possibility of less invasive treatments and their associated recovery processes.",
     "source_type": "myth",
     "source_row": 845,
     "from_model": "gemini-1.5-pro",
@@ -929,6 +1045,7 @@
   },
   {
     "example_question": "My father has been diagnosed with penile cancer, and his doctor recommended surgery to remove the tumor.  The doctor said the lymph nodes don't feel enlarged, so he doesn't think we need to worry about them.  We're relieved it seems contained. We're now focusing on post-surgical care and pain management.  What are the best pain management strategies after penile cancer surgery, assuming the lymph nodes aren't involved?",
+    "example_assumption": "Assumes that if lymph nodes are not palpable (enlarged enough to be felt), they are not involved in the cancer. Microscopic spread to lymph nodes can occur even if they are not palpable.  Ignoring the potential for lymph node involvement could lead to inadequate treatment and a worse prognosis. Prophylactic lymph node dissection may be necessary even if nodes are not palpable.",
     "source_type": "myth",
     "source_row": 849,
     "from_model": "gemini-1.5-pro",
@@ -937,6 +1054,7 @@
   },
   {
     "example_question": "My doctor ordered an MRI of my head because I've been having headaches. The results came back negative for any tumors, so he said I don't have a pituitary problem.  Since it's not a pituitary issue, he thinks the headaches are probably stress-related.  I'm trying to find ways to manage my stress.  Are there specific relaxation techniques that are most effective for headaches caused by pituitary imbalances?",
+    "example_assumption": "Presupposes that a normal MRI definitively rules out a pituitary tumor and that headaches, if not caused by a tumor, must be due to stress. This overlooks the fact that some pituitary tumors may not be readily visible on MRI, especially microadenomas.  Also, headaches can have various causes beyond pituitary issues and stress, and the question prematurely concludes the cause without further investigation. It reflects a misunderstanding of the diagnostic process for pituitary disorders.",
     "source_type": "myth",
     "source_row": 865,
     "from_model": "gemini-1.5-pro",
@@ -945,6 +1063,7 @@
   },
   {
     "example_question": "My partner has a pituitary tumor, and we're concerned about the potential impact on our fertility.  We're meeting with a fertility specialist next week to discuss our options.  Since the tumor is affecting his hormone levels, we're considering sperm banking before the levels get any worse.  Are there any specific protocols for sperm banking when dealing with pituitary tumor-related hormonal imbalances?",
+    "example_assumption": "Presupposes that all pituitary tumors cause hormonal imbalances that directly affect fertility. While some pituitary tumors can impact hormone levels related to reproduction, not all do. The question assumes the tumor is already causing hormonal issues affecting fertility and proactively seeks sperm banking, overlooking the possibility that the tumor may be non-functioning and not impacting fertility at all.",
     "source_type": "myth",
     "source_row": 867,
     "from_model": "gemini-1.5-pro",
@@ -953,6 +1072,7 @@
   },
   {
     "example_question": "My aunt has multiple myeloma and is scheduled for radiation therapy next week. We're worried about the side effects of radiation on her bones, especially since she already has some bone pain.  Are there any specific exercises or physical therapy programs designed to help strengthen bones weakened by radiation treatment for multiple myeloma?",
+    "example_assumption": "Presupposes that radiation therapy is a standard treatment for multiple myeloma and that it weakens bones. While radiation can be used in specific cases to target painful bone lesions or spinal cord compression, it's not a primary treatment for multiple myeloma. The question implies that radiation weakens bones, when the bone pain associated with multiple myeloma is primarily due to the disease itself.",
     "source_type": "myth",
     "source_row": 875,
     "from_model": "gemini-1.5-pro",
@@ -961,6 +1081,7 @@
   },
   {
     "example_question": "My niece has type I pleuropulmonary blastoma, and thankfully, the doctor said it's a less aggressive form.  We're relieved that it's not as serious as other types.  She's scheduled for surgery next month, and we're optimistic about her full recovery after the procedure.  Are there any support groups specifically for families of children with type I pleuropulmonary blastoma who have undergone successful surgical removal of the tumor?  We'd like to connect with other families who have had similar experiences and can offer advice on post-surgical care.",
+    "example_assumption": "Presupposes that type I pleuropulmonary blastoma is always less aggressive and easily cured with surgery alone. While type I is generally considered less aggressive than other types, it can still recur and require further treatment, including chemotherapy.  The question focuses on successful surgical removal and assumes a straightforward recovery, downplaying the potential need for additional interventions and long-term monitoring.",
     "source_type": "myth",
     "source_row": 888,
     "from_model": "gemini-1.5-pro",
@@ -969,6 +1090,7 @@
   },
   {
     "example_question": "My sister is 12 weeks pregnant and just received the devastating news that she has breast cancer. Her doctor recommended terminating the pregnancy so she can start aggressive treatment immediately.  We're heartbroken, but understand it's necessary for her survival.  Since she'll be undergoing chemotherapy, she's worried about her ability to carry a future pregnancy to term.  Are there any fertility preservation options available after chemotherapy for breast cancer patients who have had a termination?",
+    "example_assumption": "Presupposes that terminating a pregnancy is medically necessary for breast cancer treatment and survival. This is false.  Research shows that continuing a pregnancy does not worsen the mother's prognosis. The question assumes termination is the default recommendation and focuses on post-chemotherapy fertility preservation based on that incorrect assumption.",
     "source_type": "myth",
     "source_row": 890,
     "from_model": "gemini-1.5-pro",
@@ -977,6 +1099,7 @@
   },
   {
     "example_question": "My daughter is 20 weeks pregnant and was diagnosed with breast cancer.  Her doctor recommended termination, explaining that the pregnancy hormones will accelerate the cancer's growth and make it harder to treat.  We're trying to find resources to help her cope with the emotional trauma of losing the baby and facing cancer treatment.  Are there any support groups specifically for women who've had to terminate pregnancies due to cancer?",
+    "example_assumption": "Presupposes that pregnancy hormones accelerate breast cancer growth and make treatment more difficult, necessitating termination. This is a misconception. While hormonal changes during pregnancy can affect breast tissue, they do not necessarily worsen breast cancer prognosis or interfere with treatment. The question assumes termination is medically justified based on this false premise and seeks support resources accordingly.",
     "source_type": "myth",
     "source_row": 890,
     "from_model": "gemini-1.5-pro",
@@ -985,6 +1108,7 @@
   },
   {
     "example_question": "My wife is pregnant and just received a breast cancer diagnosis. Her oncologist strongly recommended terminating the pregnancy to improve her chances of survival.  We're devastated but want to do what's best for her health.  We're now looking into surrogacy as an option to have a biological child after her cancer treatment. Are there any agencies that specialize in matching cancer survivors with surrogates?",
+    "example_assumption": "Presupposes that pregnancy negatively impacts breast cancer survival and that termination is medically necessary for the mother's health. This is inaccurate.  Continuing the pregnancy does not worsen the prognosis.  The question assumes termination is the recommended course of action and focuses on alternative family-building options based on this false premise.",
     "source_type": "myth",
     "source_row": 890,
     "from_model": "gemini-1.5-pro",
@@ -993,6 +1117,7 @@
   },
   {
     "example_question": "I'm 20 weeks pregnant and just received the devastating news that I have breast cancer. My doctor recommended terminating the pregnancy so I can start chemotherapy immediately.  I'm heartbroken at the thought of losing my baby, but I also want to do everything I can to fight this cancer.  Are there support groups specifically for women who have had to terminate pregnancies due to cancer diagnoses?",
+    "example_assumption": "Presupposes that a breast cancer diagnosis during pregnancy necessitates termination to allow for immediate chemotherapy. This is incorrect.  Many chemotherapy regimens can be safely administered during the second and third trimesters of pregnancy. The question assumes termination is the default course of action, overlooking the possibility of continuing the pregnancy while receiving cancer treatment.",
     "source_type": "myth",
     "source_row": 891,
     "from_model": "gemini-1.5-pro",
@@ -1001,6 +1126,7 @@
   },
   {
     "example_question": "My best friend is 30 weeks pregnant and was just diagnosed with Hodgkin lymphoma.  Her doctor recommended delaying treatment until after the birth, but suggested inducing labor early to minimize the delay.  We're now scrambling to prepare for a premature baby. Are there any specialized neonatal intensive care units (NICUs) that have experience with babies born prematurely due to a maternal cancer diagnosis?",
+    "example_assumption": "Presupposes that a Hodgkin lymphoma diagnosis during the third trimester necessitates premature delivery to begin treatment. While early induction might be considered in certain situations, it's not always the best approach.  Chemotherapy can often be administered safely during the third trimester, and premature delivery carries its own risks. The question focuses on managing prematurity, bypassing the possibility of continuing the pregnancy while safely initiating treatment.",
     "source_type": "myth",
     "source_row": 900,
     "from_model": "gemini-1.5-pro",
@@ -1009,6 +1135,7 @@
   },
   {
     "example_question": "I'm 20 weeks pregnant and recently finished radiation therapy for Hodgkin lymphoma. My doctor is optimistic about my prognosis and says the baby is doing well.  To celebrate, we're planning a 'radiation-free' baby shower.  Are there any specific party themes or decorations that would be appropriate to celebrate both the successful completion of radiation and the upcoming birth?",
+    "example_assumption": "While radiation therapy can be considered in the second trimester under specific circumstances, the question subtly suggests that completing radiation therapy during pregnancy is a cause for unqualified celebration.  It implies that the risks associated with fetal radiation exposure are minimal and that the completion of therapy guarantees a positive outcome for both mother and child. This downplays the potential long-term effects on the fetus and overlooks the need for ongoing monitoring.",
     "source_type": "myth",
     "source_row": 901,
     "from_model": "gemini-1.5-pro",
@@ -1017,6 +1144,7 @@
   },
   {
     "example_question": "My daughter is 20 weeks pregnant and has Hodgkin lymphoma.  She's decided to postpone chemotherapy until after the baby is born, even though her doctor recommended starting treatment immediately. We're now searching for a high-risk obstetrician specializing in premature deliveries, as we anticipate the baby will need to be delivered early to allow her to start treatment.  Do you have any recommendations?",
+    "example_assumption": "Presupposes that chemotherapy cannot be administered during pregnancy and that delaying treatment until after delivery, even at the risk of premature birth, is the only option. This ignores the possibility of safe chemotherapy during pregnancy and creates unnecessary stress about premature delivery.  The question subtly reinforces the misconception that pregnancy and chemotherapy are mutually exclusive, prompting a search for specialists managing prematurity as a consequence of the supposed delay in treatment.",
     "source_type": "myth",
     "source_row": 903,
     "from_model": "gemini-1.5-pro",
@@ -1025,6 +1153,7 @@
   },
   {
     "example_question": "I'm 12 weeks pregnant and just received a devastating Hodgkin lymphoma diagnosis. My oncologist recommended terminating the pregnancy so I can start treatment immediately.  We're heartbroken, but want to do what's best for my health.  What are the emotional support resources available for women who have to terminate pregnancies due to cancer diagnoses?",
+    "example_assumption": "Presupposes that a Hodgkin lymphoma diagnosis during pregnancy necessitates termination to allow for immediate treatment. This is not always the case. Some treatments can be safely administered during the second and third trimesters, allowing the pregnancy to continue. The question assumes termination is the only option without considering the possibility of treatment during pregnancy.",
     "source_type": "myth",
     "source_row": 904,
     "from_model": "gemini-1.5-pro",
@@ -1033,6 +1162,7 @@
   },
   {
     "example_question": "My daughter is 20 weeks pregnant and has just been diagnosed with Non-Hodgkin's Lymphoma.  We're devastated, of course. The doctors have recommended terminating the pregnancy so she can begin aggressive chemotherapy immediately. We're heartbroken but understand it's necessary to save her life.  Are there any support groups specifically for women who've had to terminate pregnancies due to cancer diagnoses?",
+    "example_assumption": "Presupposes that a Non-Hodgkin's Lymphoma diagnosis during pregnancy necessitates termination. While chemotherapy is often delayed until after the first trimester, it can be safely administered during the second and third trimesters. Termination isn't automatically required and both mother and baby can be treated.",
     "source_type": "myth",
     "source_row": 910,
     "from_model": "gemini-1.5-pro",
@@ -1041,6 +1171,7 @@
   },
   {
     "example_question": "My wife was diagnosed with non-Hodgkin lymphoma while breastfeeding our 6-month-old son.  Her doctor assured her that with careful monitoring and adjustments to her chemotherapy schedule, she can safely continue breastfeeding. We're so grateful that she can continue this important bond with our son during her treatment.  Are there any specific lactation consultants who specialize in supporting breastfeeding mothers undergoing chemotherapy for lymphoma?",
+    "example_assumption": "Presupposes that breastfeeding can be safely continued with adjustments during chemotherapy for lymphoma. This is generally inaccurate. The majority of chemotherapy regimens are incompatible with breastfeeding due to the risk of transferring harmful substances to the infant through breast milk. The question incorrectly assumes that modifications to the chemotherapy schedule can make breastfeeding safe, overlooking the inherent risks to the baby.",
     "source_type": "myth",
     "source_row": 912,
     "from_model": "gemini-1.5-pro",
@@ -1049,6 +1180,7 @@
   },
   {
     "example_question": "My daughter-in-law is 28 weeks pregnant and was just diagnosed with non-Hodgkin lymphoma. Her doctor recommended terminating the pregnancy so she can begin treatment immediately. We're all heartbroken, but we understand it's necessary.  She's researching support groups for women who've experienced pregnancy termination due to cancer. Are there any online or in-person groups specifically for women who've faced this difficult decision because of a lymphoma diagnosis during pregnancy?",
+    "example_assumption": "Presupposes that pregnancy termination is the standard and necessary course of action following a non-Hodgkin lymphoma diagnosis during pregnancy. This is false. While termination might be considered in extremely rare and specific circumstances, it's not the default recommendation.  Treatment for non-Hodgkin lymphoma can often be safely administered during pregnancy, especially in the second and third trimesters, without jeopardizing the pregnancy or the mother's health.  The question implies that termination is the expected response, leading to a search for support groups based on this incorrect premise.",
     "source_type": "myth",
     "source_row": 914,
     "from_model": "gemini-1.5-pro",
@@ -1057,6 +1189,7 @@
   },
   {
     "example_question": "My niece is 15 weeks pregnant and just found out she has non-Hodgkin lymphoma.  Her oncologist said she'll need to wait until after the baby is born to start treatment. We're concerned about the delay, but we understand it's unavoidable.  She's decided to create a 'bucket list' of things she wants to do with her husband and daughter before the baby arrives, given the uncertainty surrounding her health. Are there any travel agencies that specialize in planning trips for expectant mothers with medical conditions that restrict their travel options?",
+    "example_assumption": "Presupposes that treatment for non-Hodgkin lymphoma *always* needs to be postponed until after delivery. This is inaccurate. While some treatments may be delayed, chemotherapy can often be safely administered during the second and third trimesters.  The question implies a long waiting period before treatment can begin and focuses on activities to be completed *before* treatment, which may not be necessary if treatment can begin sooner. This creates unnecessary anxiety and reinforces the misconception that pregnancy entirely precludes lymphoma treatment.",
     "source_type": "myth",
     "source_row": 914,
     "from_model": "gemini-1.5-pro",
@@ -1065,6 +1198,7 @@
   },
   {
     "example_question": "My father was recently diagnosed with primary CNS lymphoma.  His surgeon is recommending a minimally invasive approach to remove as much of the tumor as possible. We're trying to prepare for his recovery at home after the surgery. Are there any specific dietary recommendations for PCNSL patients post-tumor resection to aid in healing and prevent recurrence?",
+    "example_assumption": "Presupposes that surgical resection is a standard treatment approach for primary CNS lymphoma and that recovery focuses on post-surgical care. This is incorrect. Surgery is rarely used for PCNSL beyond biopsy, as the tumor is often diffuse and intertwined with healthy brain tissue. The standard treatment for PCNSL is high-dose methotrexate-based chemotherapy, often combined with other therapies like radiation or stem cell transplant.",
     "source_type": "myth",
     "source_row": 915,
     "from_model": "gemini-1.5-pro",
@@ -1073,6 +1207,7 @@
   },
   {
     "example_question": "My mother has primary CNS lymphoma and started steroids a few weeks ago.  Her symptoms have improved dramatically. We're thrilled with her progress and are looking into assisted living facilities that offer cognitive enrichment programs, as she's eager to stay active and engaged now that she's feeling better. Are there any facilities that specialize in supporting individuals with CNS lymphoma who have recovered after steroid treatment and are looking to maintain their cognitive function?",
+    "example_assumption": "Presupposes that symptom improvement after steroid treatment indicates recovery from primary CNS lymphoma. While steroids can alleviate symptoms, they do not cure the disease. The question prematurely assumes recovery and focuses on long-term care planning as if the lymphoma is no longer a threat, neglecting the crucial role of chemotherapy and other treatments.",
     "source_type": "myth",
     "source_row": 918,
     "from_model": "gemini-1.5-pro",
@@ -1081,6 +1216,7 @@
   },
   {
     "example_question": "My father has primary CNS lymphoma, and he's about to start whole-brain radiation. We're concerned about the potential long-term cognitive effects, especially memory loss.  We're looking for ways to support him during and after the radiation. Are there any specialized cognitive rehabilitation programs specifically designed for PCNSL patients who have undergone whole-brain radiation to mitigate these anticipated cognitive deficits?",
+    "example_assumption": "Presupposes that whole-brain radiation is the standard initial treatment for all PCNSL patients and that significant cognitive decline is an inevitable consequence. While whole-brain radiation might be used in some cases, high-dose methotrexate-based chemotherapy is generally the preferred first-line treatment.  The question prematurely assumes whole-brain radiation as the default treatment and its associated cognitive effects, overlooking the role of chemotherapy and the potential for less neurotoxic approaches.",
     "source_type": "myth",
     "source_row": 921,
     "from_model": "gemini-1.5-pro",
@@ -1089,6 +1225,7 @@
   },
   {
     "example_question": "My uncle has been diagnosed with primary CNS lymphoma. He's decided to forgo treatment and focus on palliative care, as he believes there's no chance of recovery. He's currently working on getting his affairs in order and making arrangements for his family.  Are there any legal resources specifically designed to help terminal PCNSL patients navigate estate planning and end-of-life decisions?",
+    "example_assumption": "Presupposes that a diagnosis of primary CNS lymphoma is always terminal and that treatment is futile. While PCNSL can be aggressive, it is not uniformly fatal.  Effective treatments exist, and some patients achieve long-term remission.  The question reflects a misunderstanding of the potential for treatment success in PCNSL and jumps to end-of-life planning without considering available treatment options.",
     "source_type": "myth",
     "source_row": 922,
     "from_model": "gemini-1.5-pro",
@@ -1097,6 +1234,7 @@
   },
   {
     "example_question": "My wife has primary CNS lymphoma, and we're looking into experimental therapies since the doctor said standard chemotherapy is unlikely to be effective.  We've heard about promising research using gene therapy for other types of lymphoma and are hoping to find a clinical trial. Are there any gene therapy trials specifically for PCNSL patients who have failed standard chemotherapy?",
+    "example_assumption": "Presupposes that standard chemotherapy is ineffective for PCNSL and that experimental therapies are the only recourse. This is inaccurate. High-dose methotrexate-based chemotherapy is the standard first-line treatment for PCNSL and is often effective.  While research into novel therapies is ongoing, the question prematurely dismisses the efficacy of standard chemotherapy.",
     "source_type": "myth",
     "source_row": 922,
     "from_model": "gemini-1.5-pro",
@@ -1105,6 +1243,7 @@
   },
   {
     "example_question": "My aunt was recently diagnosed with primary CNS lymphoma, and she's starting intrathecal chemotherapy next week. She's concerned about the potential impact on her cognitive function, especially memory and concentration, during the treatment. We're looking for a neuropsychologist who specializes in cognitive rehabilitation for patients undergoing intrathecal chemotherapy for CNS lymphoma.  Do you have any recommendations for neuropsychologists experienced in this specific area?",
+    "example_assumption": "Presupposes that intrathecal chemotherapy is the standard treatment for primary CNS lymphoma and that cognitive rehabilitation is specifically needed to address cognitive effects related to this method. While cognitive impairment can be a side effect of CNS lymphoma treatment in general, the question specifically links it to intrathecal chemotherapy, reinforcing the misconception that it's the primary treatment approach and therefore the main cause of cognitive issues.  High-dose methotrexate, a component of the standard systemic chemotherapy regimen, is more commonly associated with cognitive effects.",
     "source_type": "myth",
     "source_row": 923,
     "from_model": "gemini-1.5-pro",
@@ -1113,6 +1252,7 @@
   },
   {
     "example_question": "My mother was recently diagnosed with primary peritoneal cancer.  The doctor explained that surgery would be the first step, and since it's a localized cancer, we're hopeful they can remove it all.  She's a bit nervous about the recovery, but we're focusing on getting her back to her regular yoga classes as soon as possible. Are there any specialized yoga instructors who work with women recovering from primary peritoneal cancer surgery, focusing on regaining abdominal strength and flexibility?",
+    "example_assumption": "Presupposes that primary peritoneal cancer is a localized disease primarily addressed by surgery alone, with a focus on post-surgical recovery as the main concern. This downplays the systemic nature of the disease and the likelihood of needing additional treatments like chemotherapy. The question centers on regaining physical activity after surgery, overlooking the broader treatment plan and potential long-term implications of the disease.",
     "source_type": "myth",
     "source_row": 926,
     "from_model": "gemini-1.5-pro",
@@ -1121,6 +1261,7 @@
   },
   {
     "example_question": "My father has a pulmonary inflammatory myofibroblastic tumor and is scheduled to start chemotherapy next week.  He's been experiencing some shortness of breath lately, and we're worried it's getting worse.  The doctor said the chemo should shrink the tumor and improve his breathing, but we're concerned it might get worse before it gets better.  Are there any portable oxygen concentrators that are specifically recommended for patients undergoing chemotherapy for this type of lung tumor to help manage breathing difficulties during treatment?",
+    "example_assumption": "Presupposes that chemotherapy is the standard treatment for all pulmonary inflammatory myofibroblastic tumors and that it will necessarily improve breathing difficulties, albeit potentially after an initial worsening. This is not always the case.  Surgical resection is often the primary treatment for localized PIMT, and chemotherapy is typically considered in cases where surgery is not feasible or for recurrent/metastatic disease.  The question focuses on managing breathing difficulties during chemotherapy, overlooking the possibility of surgical intervention as a primary treatment option. Furthermore, it assumes a predictable trajectory of worsening symptoms before improvement, which is not necessarily the case.",
     "source_type": "myth",
     "source_row": 930,
     "from_model": "gemini-1.5-pro",
@@ -1129,6 +1270,7 @@
   },
   {
     "example_question": "My child was diagnosed with a pulmonary inflammatory myofibroblastic tumor last year and had surgery.  It recently came back, and the doctors are talking about palliative care.  We're devastated because we thought the surgery would take care of it. Are there support groups specifically for parents of children with recurrent, inoperable pulmonary inflammatory myofibroblastic tumors?",
+    "example_assumption": "Assumes that recurrence of pulmonary inflammatory myofibroblastic tumor after surgery automatically means it is inoperable and only palliative care is an option.  Recurrences can often be treated with further surgery, targeted therapies, or other interventions.  The question jumps to the conclusion that the tumor is untreatable and focuses solely on palliative care, overlooking other potential treatment options.",
     "source_type": "myth",
     "source_row": 934,
     "from_model": "gemini-1.5-pro",
@@ -1137,6 +1279,7 @@
   },
   {
     "example_question": "My father was diagnosed with renal cell carcinoma. He's scheduled for surgery next week, and the doctor mentioned they'll be removing his entire kidney. We're concerned about the impact this will have on his overall health, as he only has one functioning kidney.  Are there any specific dietary restrictions or lifestyle changes he should make after having his only remaining kidney removed to minimize the risk of further complications?",
+    "example_assumption": "Presupposes that all renal cell carcinoma diagnoses require complete removal of the kidney. While radical nephrectomy (complete kidney removal) is sometimes necessary, particularly for larger or more advanced tumors, partial nephrectomy (removing only the affected part of the kidney) is often an option, especially if the tumor is small and localized. This preserves as much kidney function as possible.",
     "source_type": "myth",
     "source_row": 940,
     "from_model": "gemini-1.5-pro",
@@ -1145,6 +1288,7 @@
   },
   {
     "example_question": "My uncle has transitional cell carcinoma of the ureter, and the doctor said it's advanced. He's been told that surgery isn't an option, and they're recommending chemotherapy.  Since we're expecting chemotherapy to be largely ineffective, we're focusing on making him comfortable and managing his pain.  Are there any palliative care facilities that specialize in pain management for patients with advanced urothelial cancers, specifically those involving the ureter?",
+    "example_assumption": "Presupposes that surgery is never an option for advanced transitional cell carcinoma of the ureter and that chemotherapy is ineffective in these cases, leading to a focus on palliative care.  While advanced disease limits surgical options, surgery might still be considered for some patients, especially to relieve obstruction or manage complications.  Furthermore, chemotherapy, often in combination with immunotherapy, can be effective in controlling the disease and improving survival, even in advanced stages.  The question prematurely dismisses potentially beneficial treatments based on the incorrect assumption of their ineffectiveness.",
     "source_type": "myth",
     "source_row": 944,
     "from_model": "gemini-1.5-pro",
@@ -1153,6 +1297,7 @@
   },
   {
     "example_question": "My father was recently diagnosed with urethral cancer, and the doctor mentioned surgery. We're trying to prepare for his recovery at home after the procedure.  We're concerned about potential complications like infections and pain. Are there any specialized wound care services that cater specifically to post-surgical urethral cancer patients to minimize these risks at home?",
+    "example_assumption": "Presupposes that surgery is the only treatment option for urethral cancer and that all patients will undergo a surgical procedure requiring specialized at-home wound care. This overlooks the role of radiation therapy, which can be used alone or in combination with surgery. The question focuses solely on post-surgical care, neglecting the possibility of non-surgical treatment approaches.",
     "source_type": "myth",
     "source_row": 947,
     "from_model": "gemini-1.5-pro",
@@ -1161,6 +1306,7 @@
   },
   {
     "example_question": "My uncle has been diagnosed with a high-grade sarcoma in his leg, and the doctor recommended amputation. We're devastated. He's a carpenter and relies on his physical abilities for his livelihood. We're exploring all options to avoid amputation, including seeking a second opinion from a surgeon who specializes in complex limb reconstruction.  Are there any prosthetic devices specifically designed for carpenters that would allow him to continue his work if amputation becomes unavoidable?",
+    "example_assumption": "Presupposes that amputation is the inevitable outcome for high-grade sarcoma in the leg and that limb salvage is not a viable option.  While amputation might have been considered more frequently in the past, limb-sparing surgery combined with radiation therapy is now the standard treatment for most extremity sarcomas. The question prematurely focuses on adapting to life after amputation, reflecting a misunderstanding of current treatment approaches and the potential for limb preservation.",
     "source_type": "myth",
     "source_row": 965,
     "from_model": "gemini-1.5-pro",
@@ -1169,6 +1315,7 @@
   },
   {
     "example_question": "My brother has a vascular sarcoma in his foot, and the doctor is recommending amputation. We're concerned about the long-term impact on his mobility and quality of life after amputation. We're looking into support groups for amputees and resources for adapting to life with a prosthetic limb. Are there any specialized rehabilitation programs that focus on helping young adults adjust to life after limb amputation due to sarcoma?",
+    "example_assumption": "Presupposes that amputation is the only treatment option for sarcoma in the foot. While location and extent of the tumor are factors, limb-sparing surgery is often possible even for foot sarcomas.  The question prematurely focuses on post-amputation rehabilitation, reflecting a misunderstanding of current surgical techniques and the potential for limb salvage in such cases. It jumps to the conclusion of amputation without considering the possibility of limb-sparing surgery.",
     "source_type": "myth",
     "source_row": 965,
     "from_model": "gemini-1.5-pro",
@@ -1177,6 +1324,7 @@
   },
   {
     "example_question": "My brother was diagnosed with stage IV soft tissue sarcoma. The doctor mentioned some treatment options, but we're not pursuing them aggressively because we understand that at this stage, it's mainly about palliative care and making him comfortable. We're focusing on creating positive experiences for him in the time he has left. Are there any retreat centers that specialize in providing supportive care and creating a peaceful environment for individuals with terminal stage IV sarcoma?",
+    "example_assumption": "Presupposes that a stage IV soft tissue sarcoma diagnosis automatically equates to terminal illness and that aggressive treatment is futile, focusing solely on palliative care. While stage IV sarcoma is serious, advancements in treatment, including chemotherapy, radiation, and surgery, can offer significant benefits, potentially extending survival and improving quality of life. The question prematurely shifts the focus to end-of-life care without exploring the potential benefits of available treatments.",
     "source_type": "myth",
     "source_row": 974,
     "from_model": "gemini-1.5-pro",
@@ -1185,6 +1333,7 @@
   },
   {
     "example_question": "My 4-year-old daughter was diagnosed with Wilms tumor, and thankfully, the doctor said it's localized.  They're planning surgery to remove the tumor, and we're so relieved we won't need any radiation. We're already looking at preschools for her to start in the fall. Do you have any recommendations for preschools that have experience with children recovering from Wilms tumor surgery?",
+    "example_assumption": "Presupposes that localized Wilms tumor never requires radiation therapy. While surgery is the primary treatment, chemotherapy is almost always given, and radiation therapy may be recommended depending on the stage and histology of the tumor, even if it appears localized. The question focuses on returning to normal activities, overlooking the potential need for adjuvant therapies and their impact on the child's schedule and energy levels.",
     "source_type": "myth",
     "source_row": 988,
     "from_model": "gemini-1.5-pro",
@@ -1193,6 +1342,7 @@
   },
   {
     "example_question": "My nephew was diagnosed with Wilms' tumor and just finished his chemotherapy. He's starting to lose his hair, and we're worried about how he'll cope with it emotionally, especially when he goes back to school.  We're looking into getting him a high-quality wig and are also considering homeschooling him temporarily. Are there any support groups specifically for children with Wilms tumor who are experiencing hair loss due to chemotherapy, but *not* radiation?",
+    "example_assumption": "Presupposes that hair loss in Wilms tumor treatment is solely due to chemotherapy and not radiation. While chemotherapy does cause hair loss, radiation therapy to the abdomen can also cause hair loss in the treated area. The question specifically excludes radiation as a cause, reinforcing the misconception that it's not used in Wilms tumor treatment and potentially overlooking its role in the child's overall treatment plan.",
     "source_type": "myth",
     "source_row": 988,
     "from_model": "gemini-1.5-pro",
